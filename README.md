@@ -5,9 +5,9 @@
 
 Repozytorium "programming-course-cpp" zawiera zbiór materiałów wykorzystywanychh w programie nauczania języka C++ od podstaw. Poczawszy od skonfigurowania środowiska, przejście przez wyjaśnienie podstawowych instrukcji, kończąc na algorytmice. Poniżej zostały wyszczególnione dwa najważniejsze punkty dla początkujących.
 
-- [Przygotowanie środowiska](1-programowanie-strukturalne\1.0a-przygotowanie-srodowiska\README.md)
+- [Przygotowanie środowiska](1-programowanie-strukturalne/1.0a-przygotowanie-srodowiska/README.md)
 
-- [Uruchomienie programu](1-programowanie-strukturalne\1.0b-uruchomienie-programu\README.md)
+- [Uruchomienie programu](1-programowanie-strukturalne/1.0b-uruchomienie-programu/README.md)
 
 Kurs został udostępniony w celu łatwego dostępu do materiałów dla osób uczestniczących w programie nauczania, jak również dla tych co chcą zacząć swoją przygodę z programowaniem. W rozdziale 2 (Algorytmika), odnajdą się ci, którzy już podstawy programowania przyswoili.
 
@@ -21,13 +21,13 @@ W kadym folderze znajduj się programy na 3 poziomach zaawansowania. Najłatwiej
 - ![#80b900](https://via.placeholder.com/15/80b900/000000?text=+) `Poziom 2`
 - ![#fd646e](https://via.placeholder.com/15/fd646e/000000?text=+) `Poziom 3`
 
-<!-- This content will not appear in the rendered Markdown -->
+<!-- 
 
 Done :heavy_check_mark: \
 Not implement :heavy_minus_sign: \
 Fail :x:
 
-<!--
+
 <ul>
     <li>- [ ] Ordered list element one</li>
     <ul>
