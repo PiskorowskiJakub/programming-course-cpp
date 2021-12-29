@@ -18,17 +18,17 @@ https://github.com/PiskorowskiJakub/programming-course-cpp
 
 ### 1.2 Nad listą plików kliknij **"Code"**
 
-![Kliknij "Code"](img/download-repositiories-code.png)
+![Kliknij "Code"](img/download-repositiories-code.PNG)
 
 ### 1.3 Link do klonowania repozytorium
 
 Aby sklonować repozytorium za pomocą HTTPS, kliknij w sekcję **"HTTPS"**. Aby sklonować repozytorium przy użyciu GitHub CLI, kliknij **"GitHub CLI"**. Można również pobrać repozytorium spakowane w ZIP, klikając **"Download ZIP"**.
 
-![Klonowanie repozytorium](img/clone-repositiories.png)
+![Klonowanie repozytorium](img/clone-repositiories.PNG)
 
 ### 1.4 Otwórz Git bash
 
-![Git Bash app](img/git-bash-app.png)
+![Git Bash app](img/git-bash-app.PNG)
 
 ### 1.5 Zmiana katalogu roboczego
 
@@ -45,7 +45,7 @@ git clone https://github.com/PiskorowskiJakub/programming-course-cpp.git
 
 ### 1.7 Po wciśnięciu **Enter** utworzy lokalne repozytorium
 
-![Git clone repo](img/git-clone-repo.png)
+![Git clone repo](img/git-clone-repo.PNG)
 
 ---
 
@@ -55,7 +55,7 @@ git clone https://github.com/PiskorowskiJakub/programming-course-cpp.git
 
 Otwórz folder skolonowanego repozytorium w programie Visual Studio Code. Kliknij "**Plik -> otwórz folder"** a następnie wybierz folder repozytorium.
 
-![File open folder](img/vs-file-open-folder.png)
+![File open folder](img/vs-file-open-folder.PNG)
 
 ### 2.2 Zbudowanie programu
 
