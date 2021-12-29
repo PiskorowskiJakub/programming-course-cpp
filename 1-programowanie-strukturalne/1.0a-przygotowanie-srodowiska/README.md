@@ -144,7 +144,7 @@ Po zainstalowaniu instalatora można go użyć do dostosowania instalacji, wybie
 
 1. Znajdź odpowiednie rozszerzenie na ekranie **Instalowanie programu Visual Studio**.
 
-![Instalowanie rozszerzeń w visual studio installer](img\vs2022-installer-workloads.png)
+![Instalowanie rozszerzeń w visual studio installer](img/vs2022-installer-workloads.png)
 
 Aby uzyskać podstawową obsługę języków C i C++, wybierz rozszerzenie **"Desktop development with C++"**. Jest wyposażony w domyślny edytor, który obejmuje podstawową obsługę edycji kodu.
 
