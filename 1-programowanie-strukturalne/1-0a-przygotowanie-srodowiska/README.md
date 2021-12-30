@@ -3,20 +3,20 @@
 ## Przygotowanie środowiska do pracy
 
 1. [Visual Studio Code ](#1-visual-studio-code)  \
-    1.1 [Instalacja rozszerzenia](#11-instalacja-rozszerzenia) \
-    1.2 [Instalacja kompilatora](#12-instalacja-kompilatora) \
-    1.3 [Instalacja MinGW-x64](#13-instalacja-mingw-x64) \
-    1.4 [Dodanie ścieżki do kompilatora MinGW](#14-dodanie-sciezki-do-kompilatora-mingw) \
-    1.5 [Sprawdzenie instalacji MinGW](#15-sprawdzenie-instalacji-mingw) \
-    1.6 [Stworzenie nowego projektu i uruchomienie go](#16-stworzenie-nowego-projektu-i-uruchomienie-go) \
-    1.7 [Dodanie kodu źródłowego](#17-dodanie-kodu-zrodlowego) \
-    1.8 [Zbudowanie programu helloworld](#18-zbudowanie-programu-helloworld) \
-    1.9 [Odpalenie programu helloworld](#19-odpalenie-programu-helloworld)
+    1.1. [Instalacja rozszerzenia](#11-instalacja-rozszerzenia) \
+    1.2. [Instalacja kompilatora](#12-instalacja-kompilatora) \
+    1.3. [Instalacja MinGW-x64](#13-instalacja-mingw-x64) \
+    1.4. [Dodanie ścieżki do kompilatora MinGW](#14-dodanie-sciezki-do-kompilatora-mingw) \
+    1.5. [Sprawdzenie instalacji MinGW](#15-sprawdzenie-instalacji-mingw) \
+    1.6. [Stworzenie nowego projektu i uruchomienie go](#16-stworzenie-nowego-projektu-i-uruchomienie-go) \
+    1.7. [Dodanie kodu źródłowego](#17-dodanie-kodu-zrodlowego) \
+    1.8. [Zbudowanie programu helloworld](#18-zbudowanie-programu-helloworld) \
+    1.9. [Odpalenie programu helloworld](#19-odpalenie-programu-helloworld)
 2. [Visual Studio Community](#2-visual-studio-community) \
-    2.1 [Sprawdzenie wymagań systemowych](#21-sprawdzenie-wymagan-systemowych) \
-    2.2 [Pobranie i instalacja visual Studio](#22-pobranie-i-instalacja-visual-studio) \
-    2.3 [Instalacja rozszerzeń](#23-instalacja-rozszerzen) \
-    2.4 [Odpalenie aplikacji konsolowej w C++](#24-odpalenie-aplikacji-konsolowej-w-cpp)
+    2.1. [Sprawdzenie wymagań systemowych](#21-sprawdzenie-wymagan-systemowych) \
+    2.2. [Pobranie i instalacja visual Studio](#22-pobranie-i-instalacja-visual-studio) \
+    2.3. [Instalacja rozszerzeń](#23-instalacja-rozszerzen) \
+    2.4. [Odpalenie aplikacji konsolowej w C++](#24-odpalenie-aplikacji-konsolowej-w-cpp)
 
 Powrót do głównego [folderu](../../README.md)
 

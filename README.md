@@ -5,9 +5,9 @@
 
 Repozytorium "programming-course-cpp" zawiera zbiór materiałów wykorzystywanychh w programie nauczania języka C++ od podstaw. Poczawszy od skonfigurowania środowiska, przejście przez wyjaśnienie podstawowych instrukcji, kończąc na algorytmice. Poniżej zostały wyszczególnione dwa najważniejsze punkty dla początkujących.
 
-- [Przygotowanie środowiska](1-programowanie-strukturalne/1.0a-przygotowanie-srodowiska/README.md)
+- [Przygotowanie środowiska](1-programowanie-strukturalne/1-0a-przygotowanie-srodowiska/README.md)
 
-- [Uruchomienie programu](1-programowanie-strukturalne/1.0b-uruchomienie-programu/README.md)
+- [Uruchomienie programu](1-programowanie-strukturalne/1-0b-uruchomienie-programu/README.md)
 
 Kurs został udostępniony w celu łatwego dostępu do materiałów dla osób uczestniczących w programie nauczania, jak również dla tych co chcą zacząć swoją przygodę z programowaniem. W rozdziale 2 (Algorytmika), odnajdą się ci, którzy już podstawy programowania przyswoili.
 
@@ -27,54 +27,46 @@ Done :heavy_check_mark: \
 Not implement :heavy_minus_sign: \
 Fail :x:
 
-
-<ul>
-    <li>- [ ] Ordered list element one</li>
-    <ul>
-        <li>Ordered list element one</li>
-        <li>Ordered list element two</li>
-    </ul>
-    <li>Ordered list element two</li>
-</ul>
 -->
-```Text
- 1. Programowanie strukturalne 
- ├── 1.0a Przygotowanie środowiska 
- ├── 1.0b Uruchomienie programu 
- ├── 1.1 Podstawy programowania
- │   ├── 1.1.1 Struktura prostego programu Cpp
- │   ├── 1.1.2 Typy danych
- │   └── 1.1.3.Instrukcje wejścia/wyjścia oraz operatory
- ├── 1.2. Instrukcje sterujące
- │   ├── 1.2.1. Pętla for
- │   ├── 1.2.2. Pętla while
- │   ├── 1.2.3. Pętla do while
- │   └── 1.2.4. Instrukcja switch
- ├── 1.3. Struktury danych
- │   ├── 1.3.1. Zmienne tablicowe
- │   ├── 1.3.2. Tablice znakowe i obiekty string
- │   ├── 1.3.3. Funkcje
- │   ├── 1.3.4. Przeciążenie funkcji
- │   └── 1.3.5. skaźniki
- ├── 1.4. Dodatkowe programy
- 2. Algorytmika
- ├── 2.1. Wstęp
- │   ├── 2.1.1. Podstawy złożoności obliczeniowej
- │   └── 2.1.2. Zapis danych do pliku
- ├── 2.2. Podstawowe algorytmy
- │   ├── 2.2.1. Algorytm wyznaczania liczb pierwszych
- │   ├── 2.2.2. Obliczanie NWW i NWD
- │   ├── 2.2.3. Szyfr Cezara
- │   └── 2.2.4. Ciąg Fibonacciego
- ├── 2.3. Algorytmy wyszukiwania
- │   ├── 2.3.1. Wyszukiwanie naturalne
- │   └── 2.3.2. Wyszukiwanie binarne
- ├── 2.4. Algorytmy sortowania
- │   ├── 2.4.1. Sortowanie przez scalanie
- │   ├── 2.4.2. Sortowanie przez wybieranie
- │   ├── 2.4.3. Sortowanie bąbelkowe
- │   └── 2.4.4. Sortowanie przez wstawianie
- └── 2.5. Inne algorytmy
-     ├── 2.5.1. Sprawdzanie anagramów
-     └── 2.5.2. Algorytm wydawania reszty
-```
+
+---
+
+1 [Programowanie strukturalne](1-programowanie-strukturalne/README.md) \
+&emsp;1.0a [Przygotowanie środowiska](1-programowanie-strukturalne/1-0a-przygotowanie-srodowiska/README.md) \
+&emsp;1.0b [Uruchomienie programu](1-programowanie-strukturalne/1-0b-uruchomienie-programu/README.md) \
+&emsp;1.1 [Podstawy programowania](1-programowanie-strukturalne/1-1-podstawy-programowania/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) \
+&emsp;&emsp;1.1.1 [Struktura prostego programu Cpp](1-programowanie-strukturalne/1-1-podstawy-programowania/1-1-1-struktura-prostego-programu-cpp/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) \
+&emsp;&emsp;1.1.2 [Typy danych](1-programowanie-strukturalne/1-1-podstawy-programowania/1-1-2-typy-danych/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) \
+&emsp;&emsp;1.1.3. [Instrukcje wejścia/wyjścia oraz operatory](1-programowanie-strukturalne/1-1-podstawy-programowania/1-1-3-instrukcje-wej-wyj-oraz-operatory/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) \
+&emsp;1.2. Instrukcje sterujące \
+&emsp;&emsp;1.2.1. Pętla for \
+&emsp;&emsp;1.2.2. Pętla while \
+&emsp;&emsp;1.2.3. Pętla do while \
+&emsp;&emsp;1.2.4. Instrukcja switch \
+&emsp;1.3. Struktury danych \
+&emsp;&emsp;1.3.1. Zmienne tablicowe \
+&emsp;&emsp;1.3.2. Tablice znakowe i obiekty string \
+&emsp;&emsp;1.3.3. Funkcje \
+&emsp;&emsp;1.3.4. Przeciążenie funkcji \
+&emsp;&emsp;1.3.5. skaźniki \
+&emsp;1.4. Dodatkowe programy \
+2 Algorytmika \
+&emsp;2.1. Wstęp \
+&emsp;&emsp;2.1.1. Podstawy złożoności obliczeniowej \
+&emsp;&emsp;2.1.2. Zapis danych do pliku \
+&emsp;2.2. Podstawowe algorytmy \
+&emsp;&emsp;2.2.1. Algorytm wyznaczania liczb pierwszych \
+&emsp;&emsp;2.2.2. Obliczanie NWW i NWD \
+&emsp;&emsp;2.2.3. Szyfr Cezara \
+&emsp;&emsp;2.2.4. Ciąg Fibonacciego \
+&emsp;2.3. Algorytmy wyszukiwania \
+&emsp;&emsp;2.3.1. Wyszukiwanie naturalne \
+&emsp;&emsp;2.3.2. Wyszukiwanie binarne \
+&emsp;2.4. Algorytmy sortowania \
+&emsp;&emsp;2.4.1. Sortowanie przez scalanie \
+&emsp;&emsp;2.4.2. Sortowanie przez wybieranie \
+&emsp;&emsp;2.4.3. Sortowanie bąbelkowe \
+&emsp;&emsp;2.4.4. Sortowanie przez wstawianie \
+&emsp;2.5. Inne algorytmy \
+&emsp;&emsp;2.5.1. Sprawdzanie anagramów \
+&emsp;&emsp;2.5.2. Algorytm wydawania reszty
