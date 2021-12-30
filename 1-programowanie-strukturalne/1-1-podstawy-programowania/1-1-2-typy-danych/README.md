@@ -6,6 +6,7 @@
 
 Przedstawienie podstawowych typów danych
 
+Kod źródłowy: [typy-danych.cpp](typy-danych.cpp)\
 ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) `Poziom 1`
 
 Powrót do [Podstawy programowania](/1-programowanie-strukturalne/1-1-podstawy-programowania/README.md)
@@ -30,7 +31,7 @@ np. \
 
 Typy całkowite przechowują tylko liczby całkowite.
 
-| nazwa  |  Zakres |
+| Nazwa  |  Zakres |
 | :-------- | -----:|
 | short     | -2<sup>15</sup>÷ 2<sup>15</sup> - 1 <br>[-32768, 32767] |
 | int       | -2<sup>31</sup>÷ 2<sup>31</sup> - 1 <br>[-2147483648, 2147483647] |
@@ -45,17 +46,17 @@ Typy całkowite przechowują tylko liczby całkowite.
 
 Typy rzeczywiste przechowuje liczby zmiennoprzecinkowe.
 
-| nazwa  |  Zakres |
+| Nazwa  |  Zakres |
 | :-------- | -----:|
-| float     | dokładność 6 - 7 cyfr po przecinku |
-| double    | dokładność 15 - 16 cyfr po przecinku |
-| long double | dokładność 19 - 20 cyfr po przecinku |
+| float     | dokładność 6 cyfr po przecinku |
+| double    | dokładność 14 cyfr po przecinku |
+| long double | dokładność 15 cyfr po przecinku |
 
 ## Typ znakowy
 
 Typ znakowy - przechowuje znaki, które są kodowane kodem ASCII.
 
-| nazwa  |  Zakres |
+| Nazwa  |  Zakres |
 | :-------- | -----:|
 | char          | -128 ÷ 127 |
 | unsigned char | 0 ÷ 255 |
@@ -64,13 +65,8 @@ Typ znakowy - przechowuje znaki, które są kodowane kodem ASCII.
 
 Typ logiczny - przechowuje jedną z dwóch wartości - true (prawda) albo false (fałsz). Wartość logiczna true jest równa 1, natomiast false ma wartość 0.
 
-| nazwa  |  Zakres |
+| Nazwa  |  Zakres |
 | :-------- | -----:|
 | bool   | true (1) <br> false (0) |
-
-```cpp
-bool a = true;
-bool b = 1;
-```
 
 Żródło: [algorytm.edu.pl](http://www.algorytm.edu.pl/wstp-do-c/typy-zmiennych.html)

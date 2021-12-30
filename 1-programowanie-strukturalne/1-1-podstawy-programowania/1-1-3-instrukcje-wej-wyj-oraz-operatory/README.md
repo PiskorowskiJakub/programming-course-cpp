@@ -6,6 +6,7 @@
 
 Przedstawienie instrukcji wejścia wyjścia oraz podstawowych operatorów.
 
+Kod źródłowy: [instrukcje-wej-wyj-operatory.cpp](instrukcje-wej-wyj-operatory.cpp)\
 ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) `Poziom 1`
 
 Powrót do [Podstawy programowania](/1-programowanie-strukturalne/1-1-podstawy-programowania/README.md)
