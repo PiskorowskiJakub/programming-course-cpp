@@ -1,12 +1,12 @@
 //
-//  struktura-programu.cpp
-//  1-programowanie-strukturalne\1.1-podstawy-programowania\1.1.1-struktura-prostego-programu-cpp\
+//  typy-danych.cpp
+//  1-programowanie-strukturalne\1-1-podstawy-programowania\1-1-1-struktura-prostego-programu-cpp\
 //
-//  Created by Jakub Piskorowski on 29/12/2021 wersja: 1.0
+//  Created by Jakub Piskorowski on 30/12/2021 wersja: 1.0
 //  Copyright © 2021 Jakub Piskorowski. All rights reserved.
 //	GitHub: https://github.com/PiskorowskiJakub/programming-course-cpp
 //	
-//  Przedstawienie podstawowej struktury programu C++
+//  Przedstawienie podstawowych typow danych
 //
 
 #include <iostream>
@@ -40,7 +40,7 @@ int main(){
     float i = 1.123456;
     double j = 1.12345678912345;
     long double k = 1.123456789123456;
-    cout << "float "<<fixed << setprecision(6) << i << endl;
+    cout << "float "<< fixed << setprecision(6) << i << endl;
     cout << "double "<< fixed << setprecision(14) << j << endl;
     cout << "long double "<< fixed << setprecision(15) << k << endl;
 

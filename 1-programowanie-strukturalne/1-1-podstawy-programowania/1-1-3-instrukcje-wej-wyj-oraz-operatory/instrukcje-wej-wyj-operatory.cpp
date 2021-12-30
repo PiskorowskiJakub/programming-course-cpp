@@ -1,12 +1,12 @@
 //
-//  struktura-programu.cpp
-//  1-programowanie-strukturalne\1.1-podstawy-programowania\1.1.1-struktura-prostego-programu-cpp\
+//  instrukcje-wej-wyj-operatory.cpp
+//  1-programowanie-strukturalne\1-1-podstawy-programowania\1-1-1-struktura-prostego-programu-cpp\
 //
-//  Created by Jakub Piskorowski on 29/12/2021 wersja: 1.0
+//  Created by Jakub Piskorowski on 30/12/2021 wersja: 1.0
 //  Copyright © 2021 Jakub Piskorowski. All rights reserved.
 //	GitHub: https://github.com/PiskorowskiJakub/programming-course-cpp
 //	
-//  Przedstawienie podstawowej struktury programu C++
+//  Przedstawienie instrukcji wejscia wyjscia oraz podstawowych operatorow.
 //
 
 #include <iostream>
