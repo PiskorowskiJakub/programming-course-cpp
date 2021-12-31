@@ -6,7 +6,7 @@
 //  Copyright © 2021 Jakub Piskorowski. All rights reserved.
 //	GitHub: https://github.com/PiskorowskiJakub/programming-course-cpp
 //	
-//  Przedstawienie czym są wskaźniki oraz jak ich używać.
+//  Przedstawienie czym sa wskazniki oraz jak ich uzywac
 //
 
 #include <iostream>

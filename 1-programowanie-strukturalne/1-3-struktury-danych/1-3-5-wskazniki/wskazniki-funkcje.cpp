@@ -13,7 +13,7 @@
 
 using namespace std;
 
-// funkcja przyjmuje jako argument wskaźnik
+// funkcja przyjmuje jako argument wskaznik
 void zwieksz_liczbe (int *liczba)
 {
     *liczba+= 5;
@@ -25,11 +25,11 @@ int main()
     int *wsk = &numerek;
     cout << "Numerek: " << numerek << endl;
 
-    zwieksz_liczbe(wsk); //przekazujemy wskaźnik (bez operatorów)
+    zwieksz_liczbe(wsk); //przekazujemy wskaznik (bez operatorów)
     
     cout << "Zwiekszony numerek: " << numerek << endl;
     
-    zwieksz_liczbe(&numerek); //przekazujemy bezpośrednio adres zmiennej (operator &)
+    zwieksz_liczbe(&numerek); //przekazujemy bezposrednio adres zmiennej (operator &)
     
     cout << "Zwiekszony numerek: " << numerek << endl;
     

@@ -4,11 +4,11 @@
 
 ## Temat: Wskaźniki
 
-Przedstawienie czym są wskaźniki oraz jakk ich używać.
+Przedstawienie czym są wskaźniki oraz jak ich używać.
 
 Kod źródłowy: 
 [wskazniki.cpp](wskazniki.cpp) \
-[wskazniki-funkcje.cpp](wsazniki-funkcje.cpp) 
+[wskazniki-funkcje.cpp](wskazniki-funkcje.cpp)
 
 ![#fd646e](https://via.placeholder.com/15/fd646e/000000?text=+) `Poziom 3`
 
