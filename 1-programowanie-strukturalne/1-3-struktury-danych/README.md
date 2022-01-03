@@ -17,6 +17,6 @@
 1 [Programowanie strukturalne](../README.md) (powrót) \
 &emsp;3.1. Zmienne tablicowe \
 &emsp;3.2. Tablice znakowe i obiekty string \
-&emsp;3.3. Funkcje \
+&emsp;3.3. [Funkcje](1-3-3-funkcje/README.md) ![#80b900](https://via.placeholder.com/15/80b900/000000?text=+) ![#fd646e](https://via.placeholder.com/15/fd646e/000000?text=+)\
 &emsp;3.4. Przeciążenie funkcji \
 &emsp;3.5. [Wskaźniki](1-3-5-wskazniki/README.md) ![#fd646e](https://via.placeholder.com/15/fd646e/000000?text=+)

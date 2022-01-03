@@ -14,6 +14,8 @@ Kod źródłowy:
 
 Powrót do [Struktury danych](/1-programowanie-strukturalne/1-3-struktury-danych/README.md)
 
+---
+
 ## Objaśnienie
 
 **Wskaźnik** (ang. pointer) - typ zmiennej odpowiedzialnej za przechowywanie adresu do innej zmiennej (innego miejsca w pamięci) w obrębie naszej aplikacji.
