@@ -13,7 +13,7 @@ Kod źródłowy: [funkcje.cpp](funkcje.cpp)
 
 Lista zadań: [133-zadania](133-zadania/README.md) \
 &emsp;Zadanie 1 - [Wizytówka](133-zadania/README.md#zadanie-1---wizytowka) ![#80b900](https://via.placeholder.com/15/80b900/000000?text=+) \
-&emsp;Zadanie 2 - Netto - brutto \
+&emsp;Zadanie 2 - [Netto - brutto](133-zadania/README.md#zadanie-2---netto---brutto) \
 &emsp;Zadanie 3 - Znajdź max wartość \
 &emsp;Zadanie 4 - Paczkomat - skrytka
 
@@ -23,7 +23,7 @@ Powrót do [Struktury danych](/1-programowanie-strukturalne/1-3-struktury-danych
 
 ## Objaśnienie
 
-Funkcja jest to fragment programu, któremu nadano nazwę i który możemy wykonać poprzez podanie jego nazwy oraz ewentualnych argumentów (o ile istnieją). Argumentami są natomiast dane przekazywane do funkcji.
+**Funkcja** jest to fragment programu, któremu nadano nazwę i który możemy wykonać poprzez podanie jego nazwy oraz ewentualnych argumentów (o ile istnieją). Argumentami są natomiast dane przekazywane do funkcji.
 
 Przed funkcją główną `main()` deklarujemy wszystkie funkcje, tworzymy ich prototypy. `Funkcja1()`, `Funkkcja2()`, `Funkcja3()`. Pamiętamy aby nazwy funkcji zaczynać z dużej litery.
 

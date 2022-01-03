@@ -21,6 +21,8 @@ W kadym folderze znajduj się programy na 3 poziomach zaawansowania. Najłatwiej
 - ![#80b900](https://via.placeholder.com/15/80b900/000000?text=+) `Poziom 2`
 - ![#fd646e](https://via.placeholder.com/15/fd646e/000000?text=+) `Poziom 3`
 
+**Rozwiązanie zadania** - bedą pojawiać dopiero aż wszyscy biorący udział w kursie przerobią dane zadanie.
+
 <!-- 
 
 Done :heavy_check_mark: \
