@@ -15,7 +15,8 @@ Lista zadań: [133-zadania](133-zadania/README.md) \
 &emsp;Zadanie 1 - [Wizytówka](133-zadania/README.md#zadanie-1---wizytowka) ![#80b900](https://via.placeholder.com/15/80b900/000000?text=+) \
 &emsp;Zadanie 2 - [Netto - brutto](133-zadania/README.md#zadanie-2---netto---brutto) \
 &emsp;Zadanie 3 - Znajdź max wartość \
-&emsp;Zadanie 4 - Paczkomat - skrytka
+&emsp;Zadanie 4 - Paczkomat - skrytka \
+&emsp;Zadanie 5 - [Malo - duzo](133-zadania/README.md#zadanie-5-malo---duzo)
 
 Powrót do [Struktury danych](/1-programowanie-strukturalne/1-3-struktury-danych/README.md)
 

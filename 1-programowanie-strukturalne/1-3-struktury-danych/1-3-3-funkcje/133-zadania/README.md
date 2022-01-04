@@ -19,7 +19,8 @@ Powrót do [Struktury danych](/1-programowanie-strukturalne/1-3-struktury-danych
 Zadanie 1 - [Wizytówka](#zadanie-1---wizytowka) ![#80b900](https://via.placeholder.com/15/80b900/000000?text=+) \
 Zadanie 2 - [Netto - brutto](#zadanie-2---netto---brutto) ![#80b900](https://via.placeholder.com/15/80b900/000000?text=+) \
 Zadanie 3 - Znajdź max wartość \
-Zadanie 4 - Paczkomat - skrytka
+Zadanie 4 - Paczkomat - skrytka \
+Zadanie 5 - [Malo - duzo](#zadanie-5-malo---duzo)
 
 ---
 
@@ -76,3 +77,31 @@ int main()
 ```
 
 Rozwiązanie zadania: [2-netto-brutto.cpp](2-netto-brutto/2-netto-brutto.cpp)
+
+### Zadanie 5 Malo - duzo
+
+„Za mało za dużo” — proszę napisać program pozwalający użytkownikowi na odgadnięcie liczby wylosowanej przez komputer. Program losuje nieznaną użytkownikowi liczbę (zakładamy np. przedział 1..100), użytkownik typuje liczbę, program odpowiada użytkownikowi czy to dobra liczba, czy też za mała, lub za duża. Gra trwa tak długo, aż użytkownik odgadnie wylosowaną liczbę.
+
+```cpp
+#include <iostream>
+#include <ctime>
+#include <cstdlib>
+using namespace std;
+
+int main()
+{
+    srand(time(NULL));
+    int wylosowanaLiczba = (rand() % 99) + 1;
+
+    int liczba;
+    do{
+        cout << "Podaj liczbe: ";
+        cin >> liczba;
+
+        DuzaMala(liczba, wylosowanaLiczba);
+
+    }while( !(CheckLiczba(liczba, wylosowanaLiczba)) );
+}
+```
+
+Rozwiązanie zadania: [5-malo-duzo.cpp](5-malo-duzo/5-malo-duzo.cpp)
