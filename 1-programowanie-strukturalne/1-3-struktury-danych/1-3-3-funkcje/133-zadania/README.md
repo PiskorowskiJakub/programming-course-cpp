@@ -82,6 +82,8 @@ Rozwiązanie zadania: [2-netto-brutto.cpp](2-netto-brutto/2-netto-brutto.cpp)
 
 „Za mało za dużo” — proszę napisać program pozwalający użytkownikowi na odgadnięcie liczby wylosowanej przez komputer. Program losuje nieznaną użytkownikowi liczbę (zakładamy np. przedział 1..100), użytkownik typuje liczbę, program odpowiada użytkownikowi czy to dobra liczba, czy też za mała, lub za duża. Gra trwa tak długo, aż użytkownik odgadnie wylosowaną liczbę.
 
+Zadanie polega na zaimplementowaniu dwóch funkcji `DuzaMala()`, `CheckLiczba()` użytych w funkcji **main()** tab aby program spełniał wyżej wymienione założenia.
+
 ```cpp
 #include <iostream>
 #include <ctime>
