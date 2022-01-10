@@ -26,14 +26,19 @@ Zadanie 3 - [funkcje](#zadanie-3---funkcje)
 
 Stworz wskaźnik na zmienną typu całkowitego, zainicjalizuj wartość `x = 15`. Następnie wyświetl wartość zmiennej za pomocą wskaźnika.
 
+Rozwiązanie zadania: [zad1-wsk.cpp](zad1-wsk.cpp)
+
 ### Zadanie 2 - zmienna wskaznikowa
 
 Zdefiniuj zmienną `n` typu `int` o wartości *3* oraz wskaźnik `wsk` do
 obiektów typu `int`. Ustaw wskaźnik na obiekt `n`.
 
-Za pomocą wskaźnika `wsk` wypisz zawartość i adres obiektu, na
-który wskaźnik `wsk` pokazuje.
+Wyświetl zawartość wskaźnika `wsk` oraz adres zmiennej `n`.
+
+Rozwiązanie zadania: [zad2-wsk.cpp](zad2-wsk.cpp)
 
 ### Zadanie 3 - funkcje
 
 Przekaż do funkcji 3 zmienne typu `float`. Zmodyfikuj ich wartości zwiększając wartość pierwszej zmiennej **1** drugiej zmiennej o **2** oraz 3 zmiennej o **3**. Następnie w funkcji głównej (`main()`) korzystając z wskaźnika wyświetl zawartość oraz adres obiektu.
+
+Rozwiązanie zadania: [zad3-wsk-funkcje.cpp](zad1-wsk-funkcje.cpp)
