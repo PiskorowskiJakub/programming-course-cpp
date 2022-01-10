@@ -13,9 +13,9 @@ Powrót do [Instrukcje sterujace ](/1-programowanie-strukturalne/1-2-instrukcje-
 
 ---
 
-## Dział 121 - Pętla for
+## Dział 122 - Pętla for
 
-[Petla for](/1-programowanie-strukturalne/1-2-instrukcje-sterujace/1-2-1-petla-for/README.md) (powrót) \
+[Petla for](/1-programowanie-strukturalne/1-2-instrukcje-sterujace/1-2-2-petla-for/README.md) (powrót) \
 Zadanie 1 - zad \
 Zadanie 2 -  \
 Zadanie 3 -  \

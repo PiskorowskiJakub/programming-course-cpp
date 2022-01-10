@@ -8,10 +8,9 @@ Przedstawienie działania pętli for.
 
 Kod źródłowy: [petla-for.cpp](petla-for.cpp)
 
-![#80b900](https://via.placeholder.com/15/80b900/000000?text=+) `Poziom 2` \
-![#fd646e](https://via.placeholder.com/15/fd646e/000000?text=+) `Poziom 3`
+![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) `Poziom 1` 
 
-Lista zadań: [121-zadania](121-zadania/README.md) \
+Lista zadań: [122-zadania](122-zadania/README.md) \
 &emsp;Zadanie 1 - zad \
 &emsp;Zadanie 2 - \
 &emsp;Zadanie 3 - \

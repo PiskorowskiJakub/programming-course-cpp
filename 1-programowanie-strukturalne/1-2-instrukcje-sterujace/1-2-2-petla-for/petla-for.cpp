@@ -1,6 +1,6 @@
 //
 //  petla-for.cpp
-//  1-programowanie-strukturalne\1-2-instrukcje-sterujace\1-2-1-petla-for\
+//  1-programowanie-strukturalne\1-2-instrukcje-sterujace\1-2-2-petla-for\
 //
 //  Created by Jakub Piskorowski on 03/01/2021 wersja: 1.0
 //  Copyright © 2021 Jakub Piskorowski. All rights reserved.
