@@ -36,4 +36,4 @@ który wskaźnik `wsk` pokazuje.
 
 ### Zadanie 3 - funkcje
 
-Przekaż do funkcji 3 zmienne typu `float`. Zmodyfikuj ich wartości zwiększając wartość 
+Przekaż do funkcji 3 zmienne typu `float`. Zmodyfikuj ich wartości zwiększając wartość pierwszej zmiennej **1** drugiej zmiennej o **2** oraz 3 zmiennej o **3**. Następnie w funkcji głównej (`main()`) korzystając z wskaźnika wyświetl zawartość oraz adres obiektu.
