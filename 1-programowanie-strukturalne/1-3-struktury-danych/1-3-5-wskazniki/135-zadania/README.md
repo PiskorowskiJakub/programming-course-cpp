@@ -18,7 +18,7 @@ Powrót do [Struktury danych](/1-programowanie-strukturalne/1-3-struktury-danych
 [Wskazniki](/1-programowanie-strukturalne/1-3-struktury-danych/1-3-5-wskazniki/README.md) (powrót) \
 Zadanie 1 - [zmienna wskaźnikowa](#zadanie-1---zmienna-wskaznikowa) \
 Zadanie 2 - [zmienna wskaznikowa](#zadanie-2---zmienna-wskaznikowa) \
-Zadanie 3 - [funkcje](#zadanie-3---funkcje)
+Zadanie 3 - [funkcje](#zadanie-3---funkcje) \
 Zadanie 4 - [funkcje](#zadanie-4---funkcje)
 
 ---
@@ -42,12 +42,14 @@ Rozwiązanie zadania: [zad2-wsk.cpp](zad2-wsk.cpp)
 
 Przekaż do funkcji 3 zmienne typu `float`. Zmodyfikuj ich wartości zwiększając wartość pierwszej zmiennej **1** drugiej zmiennej o **2** oraz 3 zmiennej o **3**. Następnie w funkcji głównej (`main()`) korzystając z wskaźnika wyświetl zawartość oraz adres obiektu.
 
-Rozwiązanie zadania: [zad3-wsk-funkcje.cpp](zad1-wsk-funkcje.cpp)
+Rozwiązanie zadania: [zad3-wsk-funkcje.cpp](zad3-wsk-funkcje.cpp)
 
 ### Zadanie 4 - funkcje
 
-Do tablicy 10 elementowej wylosuj 10 liczb z przedziału od 0 do 50. \
-Użytkownik podaje liczbę. \
-Stworz funkcję sprawdzającą czy użytkownik zgadł liczbę. Przekaż do funkcji wskaźni na podaną przez użytkownia liczbę oraz tablicę z wylosowanymi wartościami. \
-Użytkownik ma podawać takk długo liczbę aż trafi na wylosowaną. \
-Po trafieniu liczby wyświetlić ma się licznik za kktórym razem trafił.
+1. Do tablicy 10 elementowej wylosuj 10 liczb z przedziału od 0 do 50.
+2. Użytkownik podaje liczbę.
+3. Stworz funkcję sprawdzającą czy użytkownik zgadł liczbę. Przekaż do funkcji wskaźni na podaną przez użytkownia liczbę oraz tablicę z wylosowanymi wartościami.
+4. Użytkownik ma podawać tak długo liczbę aż trafi na wylosowaną.
+5. \* (Dodatkowe) Po trafieniu liczby wyświetlić ma się licznik za którym razem trafił.
+
+Rozwiązanie zadania: [zad4-wsk-funkcje.cpp](zad4-wsk-funkcje.cpp)
