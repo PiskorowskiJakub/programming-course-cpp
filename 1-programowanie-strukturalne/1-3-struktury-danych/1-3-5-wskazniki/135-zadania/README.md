@@ -19,6 +19,7 @@ Powrót do [Struktury danych](/1-programowanie-strukturalne/1-3-struktury-danych
 Zadanie 1 - [zmienna wskaźnikowa](#zadanie-1---zmienna-wskaznikowa) \
 Zadanie 2 - [zmienna wskaznikowa](#zadanie-2---zmienna-wskaznikowa) \
 Zadanie 3 - [funkcje](#zadanie-3---funkcje)
+Zadanie 4 - [funkcje](#zadanie-4---funkcje)
 
 ---
 
@@ -43,7 +44,7 @@ Przekaż do funkcji 3 zmienne typu `float`. Zmodyfikuj ich wartości zwiększaj�
 
 Rozwiązanie zadania: [zad3-wsk-funkcje.cpp](zad1-wsk-funkcje.cpp)
 
-### Zadanie 4
+### Zadanie 4 - funkcje
 
 Do tablicy 10 elementowej wylosuj 10 liczb z przedziału od 0 do 50. \
 Użytkownik podaje liczbę. \

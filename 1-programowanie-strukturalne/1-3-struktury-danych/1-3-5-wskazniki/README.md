@@ -15,7 +15,8 @@ Kod źródłowy:
 Lista zadań: [135-zadania](135-zadania/README.md) \
 &emsp;Zadanie 1 - [zmienna wskaźnikowa](135-zadania/README.md#zadanie-1---zmienna-wskaznikowa) \
 &emsp;Zadanie 2 - [zmienna wskaznikowa](135-zadania/README.md#zadanie-2---zmienna-wskaznikowa) \
-&emsp;Zadanie 3 - [funkcje](135-zadania/README.md#zadanie-3---funkcje)
+&emsp;Zadanie 3 - [funkcje](135-zadania/README.md#zadanie-3---funkcje) \
+&emsp;Zadanie 4 - [funkcje](135-zadania/README.md#zadanie-4---funkcje)
 
 
 Powrót do [Struktury danych](/1-programowanie-strukturalne/1-3-struktury-danych/README.md)
