@@ -1,6 +1,6 @@
 # Programming-course-cpp
 
-`Jakub Piskorowski on 10/01/2022 wersja: 1.0`
+`Jakub Piskorowski on 10/01/2022 wersja: 1.1`
 
 ## Temat: Wskkazniki w zadaniach
 
@@ -42,3 +42,11 @@ Rozwiązanie zadania: [zad2-wsk.cpp](zad2-wsk.cpp)
 Przekaż do funkcji 3 zmienne typu `float`. Zmodyfikuj ich wartości zwiększając wartość pierwszej zmiennej **1** drugiej zmiennej o **2** oraz 3 zmiennej o **3**. Następnie w funkcji głównej (`main()`) korzystając z wskaźnika wyświetl zawartość oraz adres obiektu.
 
 Rozwiązanie zadania: [zad3-wsk-funkcje.cpp](zad1-wsk-funkcje.cpp)
+
+### Zadanie 4
+
+Do tablicy 10 elementowej wylosuj 10 liczb z przedziału od 0 do 50. \
+Użytkownik podaje liczbę. \
+Stworz funkcję sprawdzającą czy użytkownik zgadł liczbę. Przekaż do funkcji wskaźni na podaną przez użytkownia liczbę oraz tablicę z wylosowanymi wartościami. \
+Użytkownik ma podawać takk długo liczbę aż trafi na wylosowaną. \
+Po trafieniu liczby wyświetlić ma się licznik za kktórym razem trafił.
