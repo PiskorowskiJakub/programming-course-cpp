@@ -11,6 +11,11 @@
 
 /1-programowanie-strukturalne/1-3-struktury-danych/1-3-3-funkcje/133-zadania/5-malo-duzo/5-malo-duzo.cpp
 
+#Wskazniki
+/1-programowanie-strukturalne/1-3-struktury-danych/1-3-5-wskazniki/135-zadania/zad1-wsk.cpp
+/1-programowanie-strukturalne/1-3-struktury-danych/1-3-5-wskazniki/135-zadania/zad2-wsk.cpp
+/1-programowanie-strukturalne/1-3-struktury-danych/1-3-5-wskazniki/135-zadania/zad3-wsk-funkcje.cpp
+
 # User-specific files
 *.rsuser
 *.suo

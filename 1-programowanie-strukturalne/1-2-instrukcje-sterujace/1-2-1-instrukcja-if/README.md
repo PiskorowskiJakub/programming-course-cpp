@@ -129,3 +129,5 @@ else cout << "Nie sa rowne \n";
 Wartość ``1/10``, która w systemie dwójkowym `tworzy ułamek nieskończony` - tak jak np. w systemie dziesiętnym ułamek `1/3` jest nieskończony - `0,33333...` taką przybliżoną wartość ułamka pomnożymy przez 10, to wynik będzie równy około 1, ale ``NIE DOKŁADNIE 1``.
 
 :exclamation: Wynika stąd bardzo ważny wniosek na przyszłość - **liczb zmiennoprzecinkowych NIE WOLNO przyrównywać** do siebie, gdyż z powodu błędów zaokrągleń równość może nigdy nie wystąpić. Zamiast sprawdzania równości będziemy sprawdzali, czy różnica tych liczb jest dostatecznie mała. Jeśli tak, to przyjmiemy, że są równe. Jeśli nie, to przyjmiemy, że się różnią.
+
+Źródło: [eduinf.waw.pl](https://eduinf.waw.pl/inf/utils/010_2010/0509.php)
