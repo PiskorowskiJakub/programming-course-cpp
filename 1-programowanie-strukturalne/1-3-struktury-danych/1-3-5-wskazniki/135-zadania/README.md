@@ -46,7 +46,7 @@ Rozwiązanie zadania: [zad3-wsk-funkcje.cpp](zad3-wsk-funkcje.cpp)
 
 ### Zadanie 4 - funkcje
 
-1. Do tablicy 10 elementowej wylosuj 10 liczb z przedziału od 0 do 50.
+1. Do tablicy 10 elementowej wylosuj 10 liczb z przedziału od 0 do 50. [Funkcja losujaca](/1-programowanie-strukturalne/1-4-dodatkowe/1-4-1-losowanie/losowanie.cpp)
 2. Użytkownik podaje liczbę.
 3. Stworz funkcję sprawdzającą czy użytkownik zgadł liczbę. Przekaż do funkcji wskaźni na podaną przez użytkownia liczbę oraz tablicę z wylosowanymi wartościami.
 4. Użytkownik ma podawać tak długo liczbę aż trafi na wylosowaną.
