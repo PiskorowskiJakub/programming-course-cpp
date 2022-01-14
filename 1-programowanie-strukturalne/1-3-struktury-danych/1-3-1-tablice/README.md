@@ -8,7 +8,10 @@ Przedstawienie czym są tablice oraz jak ich używać.
 
 Kod źródłowy: [tablice.cpp](tablice.cpp)
 
-![#80b900](https://via.placeholder.com/15/80b900/000000?text=+) `Poziom 2` 
+![#80b900](https://via.placeholder.com/15/80b900/000000?text=+) `Poziom 2`
+
+Lista zadań: [131-zadania](131-zadania/README.md) \
+&emsp;Zadanie 1 
 
 Powrót do [Struktury danych](/1-programowanie-strukturalne/1-3-struktury-danych/README.md)
 
@@ -25,6 +28,12 @@ typ_zmiennej nazwa_zmiennej[ liczba_elementow ];
 ```
 
 :exclamation: Tworząc tablicę za pomocą powyższego zapisu należy pamiętać, że liczba_elementow musi być wartością stałą, która będzie znana w chwili kompilacji programu. Oznacza to, że użytkownik nie może określać rozmiaru tablicy w trakcie działania aplikacji.
+
+Przykład zadeklarowania tablicy ``liczba`` z liczbą elementów ``200``.
+
+```cpp
+int liczba[ 200 ];
+```
 
 #### Jak korzystać z zmiennych tablicowych
 
