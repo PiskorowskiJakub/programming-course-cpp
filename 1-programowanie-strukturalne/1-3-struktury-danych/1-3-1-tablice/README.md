@@ -11,7 +11,12 @@ Kod źródłowy: [tablice.cpp](tablice.cpp)
 ![#80b900](https://via.placeholder.com/15/80b900/000000?text=+) `Poziom 2`
 
 Lista zadań: [131-zadania](131-zadania/README.md) \
-&emsp;Zadanie 1 
+&emsp;Zadanie 1 - [Tablica jednowymiarowa](131-zadania/README.md#zadanie-1) \
+&emsp;Zadanie 2 - [Tablica jednowymiarowa](131-zadania/README.md#zadanie-2) \
+&emsp;Zadanie 3 - [Tablica jednowymiarowa](131-zadania/README.md#zadanie-3) \
+&emsp;Zadanie 4 - [Tablica dwuowymiarowa](131-zadania/README.md#zadanie-4)
+
+
 
 Powrót do [Struktury danych](/1-programowanie-strukturalne/1-3-struktury-danych/README.md)
 
