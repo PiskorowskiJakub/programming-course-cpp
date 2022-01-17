@@ -8,8 +8,7 @@ Przedstawienie czym są funkcje oraz jak ich używać.
 
 Kod źródłowy: [funkcje.cpp](funkcje.cpp)
 
-![#80b900](https://via.placeholder.com/15/80b900/000000?text=+) `Poziom 2` \
-![#fd646e](https://via.placeholder.com/15/fd646e/000000?text=+) `Poziom 3`
+![#80b900](https://via.placeholder.com/15/80b900/000000?text=+) `Poziom 2`
 
 Lista zadań: [133-zadania](133-zadania/README.md) \
 &emsp;Zadanie 1 - [Wizytówka](133-zadania/README.md#zadanie-1---wizytowka) ![#80b900](https://via.placeholder.com/15/80b900/000000?text=+) \

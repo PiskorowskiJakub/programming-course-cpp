@@ -16,10 +16,10 @@ Powrót do [Struktury danych](/1-programowanie-strukturalne/1-3-struktury-danych
 ## Dział 133 - Funkcje
 
 [Funkcje](/1-programowanie-strukturalne/1-3-struktury-danych/1-3-3-funkcje/README.md) (powrót) \
-Zadanie 1 - [Wizytówka](#zadanie-1---wizytowka) ![#80b900](https://via.placeholder.com/15/80b900/000000?text=+) \
-Zadanie 2 - [Netto - brutto](#zadanie-2---netto---brutto) ![#80b900](https://via.placeholder.com/15/80b900/000000?text=+) \
-Zadanie 3 - Znajdź max wartość \
-Zadanie 4 - Paczkomat - skrytka \
+Zadanie 1 - [Wizytówka](#zadanie-1---wizytowka) \
+Zadanie 2 - [Netto - brutto](#zadanie-2---netto---brutto) \
+Zadanie 3 - [Znajdź max wartość](#zadanie-3---znajdz-max-wartosc) \
+Zadanie 4 - [Paczkomat - skrytka](#zadanie-4---paczkomat---skrytka) \
 Zadanie 5 - [Malo - duzo](#zadanie-5-malo---duzo)
 
 ---
@@ -77,6 +77,61 @@ int main()
 ```
 
 Rozwiązanie zadania: [2-netto-brutto.cpp](2-netto-brutto/2-netto-brutto.cpp)
+
+### Zadanie 3 - Znajdz max wartosc
+
+Napisz funcję `MaxFun()` do której przekażesz tablicę z 5 liczbami całkkowitymi podanymi przez użytkkownika. Funkcja ma przechodzic po elementach tablicy i zwrócić największą wartość z tablicy.
+
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    
+    int liczby[5];
+    cout << "Podaj 5 liczb: ";
+    for(int i=0; i<5; i++)
+        cin >> liczby[i];
+    
+    cout << "Najwieksza liczba: " << MaxFun(liczby) << endl;
+
+    system("pause");
+    return 0;
+}
+```
+
+Rozwiązanie zadania: [3-max-war.cpp](3-max-war/3-max-war.cpp)
+
+### Zadanie 4 - Paczkomat - skrytka
+
+Zadanie polega na stworzeniu 3 funkcji:
+
+- `SprawdzWymiary()`, która po sprawdzeniu 3 warunków, zwróci informację czy paczka o parametrach podanych przez użytkownika wejdzie do **małej skrytki, dużej skrytki** albo **nie zmieści się do paczkomatu**.
+- `MalaSkrytka()` oraz `DuzaSkrytka()`, następujące funkcje mają sprawdzać wymiary paczki czy są zgodne zwracając wartość ``true`` lub ``false``. Funkcje powinny zostać użyte w funkcji `SprawdzWymiary()`.
+
+```cpp
+#include <iostream>
+using namespace std;
+
+void SprawdzWymiary(float szer, float wys);
+bool MalaSkrytka(float width, float height);
+bool DuzaSkrytka(float width, float height);
+
+int main()
+{
+    float szerokosc, wysokosc;
+    cout << "Podaj wymiary paczki " << endl;
+    cout << "Szerokosc (cm): ";
+    cin >> szerokosc;
+    cout << "Wysokosc (cm): ";
+    cin >> wysokosc;
+    SprawdzWymiary(szerokosc, wysokosc);
+}
+```
+
+Rozwiązanie zadania: [4-paczkomat-skrytka.cpp](4-paczkomat-skrytka/4-paczkomat-skrytka.cpp)
 
 ### Zadanie 5 Malo - duzo
 
