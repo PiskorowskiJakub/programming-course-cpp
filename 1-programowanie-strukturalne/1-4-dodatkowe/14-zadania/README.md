@@ -33,6 +33,8 @@ Napisz program symulujący sklep.
    0. wyjscie
 ```
 
-2. Po wybraniu produktu, należy dodać do koszyka cenę za dany produt.
-3. Program ma cały czas wyświetlać użytkownikowi menu, póki nie wyjdzie z niego (nie wybierze opcji ``0``).
+2. Po wybraniu produktu, należy dodać do koszyka cenę za dany produt. (wykorzystać instrukcję switch)
+3. Program ma cały czas wyświetlać użytkownikowi menu, póki nie wyjdzie z niego (nie wybierze opcji ``0``). (wyorzystać pętlę do while)
 4. Po wyjściu z menu niech wyświetli użytkownikkowi cenę końcową.
+
+Rozwiazanie zadania: [zad1-menu.cpp](zad1-menu.cpp)
