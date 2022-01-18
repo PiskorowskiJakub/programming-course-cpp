@@ -2,7 +2,7 @@
 
 `Jakub Piskorowski on 10/01/2022 wersja: 1.2`
 
-## Temat: Wskkazniki w zadaniach
+## Temat: Wskazniki w zadaniach
 
 Przedstawienie czym są wskkazniki oraz jak ich używać.
 

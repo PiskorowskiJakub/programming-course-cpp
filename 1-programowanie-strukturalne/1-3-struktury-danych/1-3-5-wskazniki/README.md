@@ -4,7 +4,7 @@
 
 ## Temat: Wskaźniki
 
-Przedstawienie czym są wskaźniki oraz jak ich używać. 
+Przedstawienie czym są wskaźniki oraz jak ich używać.
 
 Kod źródłowy:
 [wskazniki.cpp](wskazniki.cpp) \
@@ -29,7 +29,7 @@ Powrót do [Struktury danych](/1-programowanie-strukturalne/1-3-struktury-danych
 
 ## Objaśnienie
 
-### Wskazniki
+### 1 Wskazniki
 
 **Wskaźnik** (ang. pointer) - typ zmiennej odpowiedzialnej za przechowywanie adresu do innej zmiennej (innego miejsca w pamięci) w obrębie naszej aplikacji.
 
@@ -48,7 +48,7 @@ Co zrobić, aby jedną funkcją zmodyfikować 3 zmienne na raz? Nie można uży�
 
 ![Przedstawienie wskaznikow](img/wskazniki2.png)
 
-### Jak uzywac wskaznikow
+### 2 Jak uzywac wskaznikow
 
 **Zmienna wskaźnikowa** (czyli wskaźnik) poprzedzona jest gwiazdką (\**) i **przechowuje adres pamięci** (a nie wartość) zmiennej , na którą wskazuje.
 
@@ -104,7 +104,7 @@ int *wsk = &telefon;    //wskaźnik wsk zawiera adres zmiennej telefon
 cout << *wsk << endl;
 ```
 
-### Pusty wskaznik
+### 3 Pusty wskaznik
 
 Przed zapisaniem wartości do wskaźnika, czyli zapisaniu wartości do zmiennej na którą wskazuje wskaźnik, należy się upewnić, że wskaźnik nie jest pusty.
 
@@ -117,7 +117,7 @@ int *wsk;
 
 ---
 
-### Wskazniki i funkcje
+### 4 Wskazniki i funkcje
 
 W języku C++ przekazujemy argumenty do funkcji poprzez tzw. **przekazywanie przez wartość.** W języku C oraz C++ możemy przekazywać wartości do funkcji poprzez **przekazywanie przez wskaźnik.** Wskaźnik będzie wtedy argumentem funkcji.
 
@@ -155,7 +155,7 @@ Należy zwrócić uwagę, że do funkcji której argumentem jest wskaźnik, prze
 
 ---
 
-### Wskazniki i tablice
+### 5 Wskazniki i tablice
 
 Tablice są sciśle związane ze wskaźnikami. Nazwa tablicy to wskaźnik na jej pierwszy element. Oznacza to że możemy wyświetlić pierwszy element tablicy umieszczając operator wyłuskania(``*``) przed jej nazwą:
 
@@ -198,7 +198,7 @@ int main()
 
 ---
 
-### Tablice dynamiczne
+### 6 Tablice dynamiczne
 
 **Tablice statyczne** nie dają nam możliwości decydowania o ich wymiarach podczas działania programu. Oznacza to że musimy znać wielkość tablicy na poziomie tworzenia aplikacji.
 
@@ -231,7 +231,7 @@ delete [] tablica;
 
 ---
 
-### Przekazywanie tablic jednowymiarowych do funkcji
+### 7 Przekazywanie tablic jednowymiarowych do funkcji
 
 W C++ mamy do dyspozycji kilka form zapisu przekazywania **tablic do funkcji**. Poznamy trzy sposoby zapisu osiągnięcia naszego celu. Zapisy, które zostaną przedstawione są względem siebie równoważne, a więc można ich używać zamiennie. Zapisy te wyglądają następująco:
 
