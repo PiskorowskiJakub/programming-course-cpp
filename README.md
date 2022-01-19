@@ -47,7 +47,7 @@ Fail :x:
 &emsp;&emsp;1.2.2. [Pętla for](1-programowanie-strukturalne/1-2-instrukcje-sterujace/1-2-2-petla-for/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) \
 &emsp;&emsp;1.2.3. [Pętla while](1-programowanie-strukturalne/1-2-instrukcje-sterujace/1-2-3-while/README.md) \
 &emsp;&emsp;1.2.4. [Pętla do while](1-programowanie-strukturalne/1-2-instrukcje-sterujace/1-2-4-do-while/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) \
-&emsp;&emsp;1.2.5. [Instrukcja switch](1-programowanie-strukturalne/1-2-instrukcje-sterujace/1-2-5-switch/README.md) \
+&emsp;&emsp;1.2.5. [Instrukcja switch](1-programowanie-strukturalne/1-2-instrukcje-sterujace/1-2-5-switch/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+)\
 &emsp;1.3. [Struktury danych](1-programowanie-strukturalne/1-3-struktury-danych/README.md) \
 &emsp;&emsp;1.3.1. [Zmienne tablicowe](1-programowanie-strukturalne/1-3-struktury-danych/1-3-1-tablice/README.md) ![#80b900](https://via.placeholder.com/15/80b900/000000?text=+) \
 &emsp;&emsp;1.3.2. [Tablice znakowe i obiekty string](1-programowanie-strukturalne/1-3-struktury-danych/1-3-2-tablice-znakowe/README.md) \
