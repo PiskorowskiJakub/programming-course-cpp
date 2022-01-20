@@ -36,8 +36,8 @@ Fail :x:
 ## Spis treści
 
 1 [Programowanie strukturalne](1-programowanie-strukturalne/README.md) \
-&emsp;1.0a [Przygotowanie środowiska](1-programowanie-strukturalne/1-0a-przygotowanie-srodowiska/README.md) \
-&emsp;1.0b [Uruchomienie programu](1-programowanie-strukturalne/1-0b-uruchomienie-programu/README.md) \
+&emsp;1.0a [Przygotowanie środowiska](1-programowanie-strukturalne/1-0a-przygotowanie-srodowiska/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) \
+&emsp;1.0b [Uruchomienie programu](1-programowanie-strukturalne/1-0b-uruchomienie-programu/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) \
 &emsp;1.1 [Podstawy programowania](1-programowanie-strukturalne/1-1-podstawy-programowania/README.md)  \
 &emsp;&emsp;1.1.1 [Struktura prostego programu Cpp](1-programowanie-strukturalne/1-1-podstawy-programowania/1-1-1-struktura-prostego-programu-cpp/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) \
 &emsp;&emsp;1.1.2 [Typy danych](1-programowanie-strukturalne/1-1-podstawy-programowania/1-1-2-typy-danych/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) \
@@ -50,7 +50,7 @@ Fail :x:
 &emsp;&emsp;1.2.5. [Instrukcja switch](1-programowanie-strukturalne/1-2-instrukcje-sterujace/1-2-5-switch/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+)\
 &emsp;1.3. [Struktury danych](1-programowanie-strukturalne/1-3-struktury-danych/README.md) \
 &emsp;&emsp;1.3.1. [Zmienne tablicowe](1-programowanie-strukturalne/1-3-struktury-danych/1-3-1-tablice/README.md) ![#80b900](https://via.placeholder.com/15/80b900/000000?text=+) \
-&emsp;&emsp;1.3.2. [Tablice znakowe i obiekty string](1-programowanie-strukturalne/1-3-struktury-danych/1-3-2-tablice-znakowe/README.md) \
+&emsp;&emsp;1.3.2. [Tablice znakowe i obiekty string](1-programowanie-strukturalne/1-3-struktury-danych/1-3-2-tablice-znakowe/README.md) ![#80b900](https://via.placeholder.com/15/80b900/000000?text=+) \
 &emsp;&emsp;1.3.3. [Funkcje](1-programowanie-strukturalne/1-3-struktury-danych/1-3-3-funkcje/README.md) ![#80b900](https://via.placeholder.com/15/80b900/000000?text=+) \
 &emsp;&emsp;1.3.4. [Przeciążenie funkcji](1-programowanie-strukturalne/1-3-struktury-danych/1-3-4-przeciazenie-funkcji/README.md) ![#80b900](https://via.placeholder.com/15/80b900/000000?text=+) \
 &emsp;&emsp;1.3.5. [Wskaźniki](1-programowanie-strukturalne/1-3-struktury-danych/1-3-5-wskazniki/README.md) ![#fd646e](https://via.placeholder.com/15/fd646e/000000?text=+) \
