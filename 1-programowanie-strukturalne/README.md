@@ -24,7 +24,7 @@
 &emsp;1.2. [Instrukcje sterujące](1-2-instrukcje-sterujace/README.md) \
 &emsp;&emsp;1.2.1. [Instrukcja warunkowa if](1-2-instrukcje-sterujace/1-2-1-instrukcja-if/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) \
 &emsp;&emsp;1.2.2. [Pętla for](1-2-instrukcje-sterujace/1-2-2-petla-for/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) \
-&emsp;&emsp;1.2.3. [Pętla while](1-2-instrukcje-sterujace/1-2-3-while/README.md) \
+&emsp;&emsp;1.2.3. [Pętla while](1-2-instrukcje-sterujace/1-2-3-while/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) \
 &emsp;&emsp;1.2.4. [Pętla do while](1-2-instrukcje-sterujace/1-2-4-do-while/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) \
 &emsp;&emsp;1.2.5. [Instrukcja switch](1-2-instrukcje-sterujace/1-2-5-switch/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+)\
 &emsp;1.3. [Struktury danych](1-3-struktury-danych/README.md) \

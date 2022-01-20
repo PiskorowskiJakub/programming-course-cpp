@@ -3,7 +3,7 @@
 
 ## Opis
 
-Repozytorium "programming-course-cpp" zawiera zbiór materiałów wykorzystywanychh w programie nauczania języka C++ od podstaw. Poczawszy od skonfigurowania środowiska, przejście przez wyjaśnienie podstawowych instrukcji, kończąc na algorytmice. Poniżej zostały wyszczególnione dwa najważniejsze punkty dla początkujących.
+Repozytorium "programming-course-cpp" zawiera zbiór materiałów wykorzystywanych w programie nauczania języka C++ od podstaw. Poczawszy od skonfigurowania środowiska, przejście przez wyjaśnienie podstawowych instrukcji, kończąc na algorytmice. Poniżej zostały wyszczególnione dwa najważniejsze punkty dla początkujących.
 
 - [Przygotowanie środowiska](1-programowanie-strukturalne/1-0a-przygotowanie-srodowiska/README.md)
 
@@ -15,7 +15,7 @@ Kurs został udostępniony w celu łatwego dostępu do materiałów dla osób uc
 
 Struktura katalogów przedstawia ogólny schemat skatalogowania materiałów.
 
-W kadym folderze znajduj się programy na 3 poziomach zaawansowania. Najłatwiejszy poziom (Poziom 1) został oznaczony kolorem żółtym. Średni poziom (Poziom 2) oznaczony kolorem zielonym. Kolejny poziom (Poziom 3) oznaczony jest kolorem czerwonym.
+W kadym folderze znajduj się programy na różnych poziomach zaawansowania. Najłatwiejszy poziom (Poziom 1) został oznaczony kolorem żółtym. Średni poziom (Poziom 2) oznaczony kolorem zielonym. Kolejny poziom (Poziom 3) oznaczony jest kolorem czerwonym.
 
 - ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) `Poziom 1`
 - ![#80b900](https://via.placeholder.com/15/80b900/000000?text=+) `Poziom 2`
@@ -45,7 +45,7 @@ Fail :x:
 &emsp;1.2. [Instrukcje sterujące](1-programowanie-strukturalne/1-2-instrukcje-sterujace/README.md) \
 &emsp;&emsp;1.2.1. [Instrukcja warunkowa if](1-programowanie-strukturalne/1-2-instrukcje-sterujace/1-2-1-instrukcja-if/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) \
 &emsp;&emsp;1.2.2. [Pętla for](1-programowanie-strukturalne/1-2-instrukcje-sterujace/1-2-2-petla-for/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) \
-&emsp;&emsp;1.2.3. [Pętla while](1-programowanie-strukturalne/1-2-instrukcje-sterujace/1-2-3-while/README.md) \
+&emsp;&emsp;1.2.3. [Pętla while](1-programowanie-strukturalne/1-2-instrukcje-sterujace/1-2-3-while/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) \
 &emsp;&emsp;1.2.4. [Pętla do while](1-programowanie-strukturalne/1-2-instrukcje-sterujace/1-2-4-do-while/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) \
 &emsp;&emsp;1.2.5. [Instrukcja switch](1-programowanie-strukturalne/1-2-instrukcje-sterujace/1-2-5-switch/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+)\
 &emsp;1.3. [Struktury danych](1-programowanie-strukturalne/1-3-struktury-danych/README.md) \
