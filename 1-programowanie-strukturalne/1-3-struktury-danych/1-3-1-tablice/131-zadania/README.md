@@ -1,6 +1,6 @@
 # Programming-course-cpp
 
-`Jakub Piskorowski on 14/01/2022 wersja: 1.1`
+`Jakub Piskorowski on 14/01/2022 wersja: 1.2`
 
 ## Temat: Zmienne tablicowe w zadaniach
 
@@ -26,11 +26,35 @@ Powrót do [Struktury danych](/1-programowanie-strukturalne/1-3-struktury-danych
 
 Napisz program wczytujacy z klawiatury 5 liczb calkowitych. Wczytane liczby parzyste nalezy wypisac na ekranie.
 
+Oczekiwany rezultat:
+
+```text
+Wprowadz 5 liczb:
+1
+2
+3
+4
+5
+Liczby parzyste: 2, 4, 
+```
+
 Rozwiązanie zadania: [zad1.cpp](zad1.cpp)
 
 ### Zadanie 2
 
 Napisz program wczytujacy z klawiatury 5 liczb calkowitych. Wczytane liczby nalezy wypisac na ekranie w odwrotnej kolejnosci.
+
+Oczekiwany rezultat:
+
+```text
+Wprowadz 5 liczb: 
+1
+2
+3
+4
+5
+W odwrotnej kolejnosci: 5, 4, 3, 2, 1,
+```
 
 Rozwiązanie zadania: [zad2.cpp](zad2.cpp)
 
@@ -38,10 +62,30 @@ Rozwiązanie zadania: [zad2.cpp](zad2.cpp)
 
 Napisz program wczytujacy z klawiatury 5 liczb calkowitych. Wczytane liczby ujemne nalezy zastapic zerami, nastepnie wypisac wszystkie na ekranie.
 
+Oczekiwany rezultat:
+
+```text
+Wprowadz 5 liczb dodanich i ujemnych: 
+4
+-8
+6
+-2
+7
+Liczby ujemne zamienione na 0: 4, 0, 6, 0, 7, 
+```
+
 Rozwiązanie zadania: [zad3.cpp](zad3.cpp)
 
 ### Zadanie 4
 
 Napisz program wyswietlajacy tablice o rozmiarze 3 wierszy oraz 5 kolumn. Wypelniona kolejnymi wartosciami poczawszy od liczby 1 do n.
+
+Oczekiwany rezultat:
+
+```text
+1 2 3 4 5 
+6 7 8 9 10
+11 12 13 14 15
+```
 
 Rozwiązanie zadania: [zad4.cpp](zad4.cpp)
