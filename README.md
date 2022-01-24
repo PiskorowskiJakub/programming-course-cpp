@@ -54,6 +54,7 @@ Fail :x:
 &emsp;&emsp;1.3.3. [Funkcje](1-programowanie-strukturalne/1-3-struktury-danych/1-3-3-funkcje/README.md) ![#80b900](https://via.placeholder.com/15/80b900/000000?text=+) \
 &emsp;&emsp;1.3.4. [Przeciążenie funkcji](1-programowanie-strukturalne/1-3-struktury-danych/1-3-4-przeciazenie-funkcji/README.md) ![#80b900](https://via.placeholder.com/15/80b900/000000?text=+) \
 &emsp;&emsp;1.3.5. [Wskaźniki](1-programowanie-strukturalne/1-3-struktury-danych/1-3-5-wskazniki/README.md) ![#fd646e](https://via.placeholder.com/15/fd646e/000000?text=+) \
+&emsp;&emsp;1.3.6. [Struktury danych](1-programowanie-strukturalne/1-3-struktury-danych/1-3-6-struktury/README.md) ![#fd646e](https://via.placeholder.com/15/fd646e/000000?text=+)\
 &emsp;1.4. [Dodatkowe programy](1-programowanie-strukturalne/1-4-dodatkowe/README.md) \
 2 Algorytmika \
 &emsp;2.1. Wstęp \

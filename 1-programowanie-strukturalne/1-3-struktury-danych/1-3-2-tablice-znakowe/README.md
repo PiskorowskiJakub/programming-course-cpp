@@ -6,9 +6,16 @@
 
 Przedstawienie czym są tablice znakowe, obiekty string i jak ich używać.
 
-Kod źródłowy: [tablice-znakowe.cpp](tablice-znakowe.cpp)
-
 ![#80b900](https://via.placeholder.com/15/80b900/000000?text=+) `Poziom 2`
+
+Lista zadań: [132-zadania](132-zadania/README.md)
+
+&emsp; [1. Tablice znaków](#1-tablice-znakow) \
+&emsp; [2. Wypełnianie tablicy znakami](#2-wypelnianie-tablicy-znakami) \
+&emsp; [3. Wprowadzanie ciągów znaków](#3-wprowadzanie-ciągow-znakow) \
+&emsp; [4. Metoda getline()](#4-metoda-getline) \
+&emsp; [5. Konkatenacja - operator łączenia](#5-konkatenacja---operator-laczenia) \
+&emsp; [6. Zamiana znaków w stringu](#6-zamiana-znakow-w-stringu)
 
 Powrót do [Struktury danych](/1-programowanie-strukturalne/1-3-struktury-danych/README.md)
 
@@ -16,7 +23,7 @@ Powrót do [Struktury danych](/1-programowanie-strukturalne/1-3-struktury-danych
 
 ## Objaśnienie
 
-### Tablice znaków
+### 1 Tablice znakow
 
 **Tablice znaków** służą do przechowywania **ciągów znaków**, czyli tekstu. Przy deklaracji musimy pamiętać, żeby podać o jedną komórkę więcej niż potrzebujemy, ponieważ ciąg znaków musi być zakończony specjalnym znakiem `'\0'` (kod ASCII = 0). Dzięki temu "zakończeniu", między innymi program wie kiedy zakończyć wypisywanie tekstu.
 
@@ -24,7 +31,7 @@ Poniżej przedstawiony jest schemat przechowywania tekstu **"Ala ma kota".** W t
 
 ![tablica znakow](img/tablica-znakow.PNG)
 
-### Wypełnianie tablicy znakami
+### 2 Wypelnianie tablicy znakami
 
 Tablicę można wypełnić przy deklaracji (podobnie jak inne obiekty), pamiętając o tym szczególnym **znaku na końca tablicy**:
 
@@ -57,7 +64,7 @@ Wypełnianie tablicy poprzez przypisanie do danych komórek odbywa się tak samo
 
 Zauważmy, że przy wyświetlaniu tablicy znaków podajemy tylko nazwę tablicy.
 
-### Wprowadzanie ciągów znaków
+### 3 Wprowadzanie ciągow znakow
 
 Podobnie jak przy wypisywaniu tekstu, do wprowadzania posługujemy się tylko nazwą tablicy. W tym miejscu należy zwrócić uwagę na działanie obiektu "`cin`". Dane zostaną wczytane **do napotkania pierwszej spacji** lub **znaku końca linii.** Oznacza to, że tym sposobem możemy wczytać **tylko jeden wyraz.**
 
@@ -83,7 +90,7 @@ Podaj imie i nazwisko: Jakub Piskorowski
 Twoje dane osobowe: Jakub
 ```
 
-### Metoda getline()
+### 4 Metoda getline()
 
 Drugim sposobem, jaki można tu zastosować jest wykorzystanie metody `getline()` obiektu `cin`. Funkcja ta jest ukierunkowana na wczytywanie **całych wierszy** i odrzuceniem znaku końca linii. Konstrukcja wygląda następująco:
 
@@ -119,7 +126,7 @@ Twoje dane osobowe: Jakub Piskorowski
 
 Źródło: [algorytm.edu.pl](http://www.algorytm.edu.pl/tablice-w-c/tablice-znakow.html)
 
-### Konkatenacja - operator łączenia
+### 5 Konkatenacja - operator laczenia
 
 Konkatenacja w programowaniu oznacza łączenie dwóch wyrażeń w jedno. Wyrażeniami mogą być np. dwa ciągi znaków ale także liczba i ciąg znaków.
 
@@ -132,7 +139,7 @@ cout << s << endl;
 cout << "Length: " << s.length();
 ```
 
-### Zamiana znaków w stringu
+### 6 Zamiana znakow w stringu
 
 Zmienną typu `String` możemy potraktować jako **tablicę znaków** dzięki temu odwołując się do danego elementu zmiennej `String` możemy dany element zmodyfikować.
 

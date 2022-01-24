@@ -10,13 +10,11 @@ Kod źródłowy: [tablice.cpp](tablice.cpp)
 
 ![#80b900](https://via.placeholder.com/15/80b900/000000?text=+) `Poziom 2`
 
-Lista zadań: [131-zadania](131-zadania/README.md) \
-&emsp;Zadanie 1 - [Tablica jednowymiarowa](131-zadania/README.md#zadanie-1) \
-&emsp;Zadanie 2 - [Tablica jednowymiarowa](131-zadania/README.md#zadanie-2) \
-&emsp;Zadanie 3 - [Tablica jednowymiarowa](131-zadania/README.md#zadanie-3) \
-&emsp;Zadanie 4 - [Tablica dwuowymiarowa](131-zadania/README.md#zadanie-4)
+Lista zadań: [131-zadania](131-zadania/README.md)
 
-
+&emsp;[1. Jednowymiarowe tablice](#1-jednowymiarowe-tablice) \
+&emsp;[2. Dwuwymiarowe tablice](#2-dwuwymiarowe-tablice) \
+&emsp;[3. Tablice wielowymiarowe](#3-tablice-wielowymiarowe)
 
 Powrót do [Struktury danych](/1-programowanie-strukturalne/1-3-struktury-danych/README.md)
 
@@ -24,7 +22,7 @@ Powrót do [Struktury danych](/1-programowanie-strukturalne/1-3-struktury-danych
 
 ## Objaśnienie
 
-## Jednowymiarowe tablice
+## 1 Jednowymiarowe tablice
 
 Tworzenie jednowymiarowych tablic zmiennych jest bardzo proste - wystarczy, że za deklaracją zwykłej zmiennej podamy liczbę elementów. W ogólnym przypadku wygląda to tak:
 
@@ -123,7 +121,7 @@ for(int i=0; i <10; i++)
 
 ---
 
-## Dwuwymiarowe tablice
+## 2 Dwuwymiarowe tablice
 
 Jako tablicę dwuwymiarową możemy sobie wyobrazić planszę prostokątną składającą się z pewnej liczby wierszy i kolumn (indeksowanie rozpoczynamy od zera). Aby przypisać lub pobrać wartość do danej komórki, należy podać jej obie współrzędne.
 
@@ -188,7 +186,7 @@ int tab[100][23];
             tab[i][j]=0;
 ```
 
-### Tablice wielowymiarowe
+### 3 Tablice wielowymiarowe
 
 Tablice o większej liczbie wymiarów rzadko się stosuje. Sposób inicjacji, oraz operowania na tablicach tego typu jest analogiczny jak w przypadku tablic dwuwymiarowych.
 
