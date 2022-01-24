@@ -1,6 +1,6 @@
 # Programming-course-cpp
 
-`Jakub Piskorowski on 24/01/2022 wersja: 1.1`
+`Jakub Piskorowski on 24/01/2022 wersja: 1.0`
 
 ## Temat: Struktury danych
 
