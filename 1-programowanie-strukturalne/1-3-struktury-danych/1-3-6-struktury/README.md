@@ -7,7 +7,8 @@
 Przedstawienie czym są struktury danych oraz jak ich używać.
 
 Kod źródłowy:
-[struktury.cpp](struktury.cpp)
+[struktury.cpp](struktury.cpp) \
+[tablice-struktur.cpp](tablice-struktur.cpp)
 
 ![#fd646e](https://via.placeholder.com/15/fd646e/000000?text=+) `Poziom 3`
 
@@ -33,10 +34,10 @@ Jeśli próbowałeś już pisać jakąś bazę danych, np. przechowującą konta
 //struktura dla użytkowników forum
 struct Uzytkownicy_DDT //deklaracja struktury
 { //opis struktury
-    std::string nik;
-    std::string haslo;
+    string nick;
+    string haslo;
     short data_zalozenia_konta;
-    std: string status;
+    string status;
 };
 ```
 
@@ -154,6 +155,7 @@ Rodzaj Konta Uzytkownik
 ### 3 Analiza kodu
 
 Jak pewnie się zorientowałeś **strukturę** można wypełnić podobnie jak tablicę, gdy oczywiście przed uruchomieniem programu znamy wartości jakie ma zawierać. Co warte podkreślenia **struktura Uzytkownicy_DDT** posiada trzy obiekty `PiotrSzawdynski`,  `Pietrzuch`,  `Piotrus_Pan`. By wprowadzić bądź wyświetlić wartości danego obiektu, musimy użyć **kropki( . )**!!! `nazwa_obiektu.nazwa_zmiennej = wartosc_wprowadzana` Większość kompilatorów po wprowadzeniu kropki z klawiatury **wyświetla podpowiedz dla danego obiektu** (typy danych dla tego obiektu(struktury)).
+
 **WAŻNE !!!** dla niektórych kompilatorów należy użyć słowa kluczowego `static Uzytkownicy_DDT PiotrSzawdynski`.
 
 ```cpp
