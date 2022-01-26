@@ -8,13 +8,9 @@ Przedstawienie działania pętli for.
 
 Kod źródłowy: [petla-for.cpp](petla-for.cpp)
 
-![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) `Poziom 1` 
+![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) `Poziom 1`
 
-Lista zadań: [122-zadania](122-zadania/README.md) \
-&emsp;Zadanie 1 - zad \
-&emsp;Zadanie 2 - \
-&emsp;Zadanie 3 - \
-&emsp;Zadanie 4 - 
+Lista zadań: [122-zadania](122-zadania/README.md)
 
 Powrót do [Instrukcje sterujace](/1-programowanie-strukturalne/1-2-instrukcje-sterujace/README.md)
 
