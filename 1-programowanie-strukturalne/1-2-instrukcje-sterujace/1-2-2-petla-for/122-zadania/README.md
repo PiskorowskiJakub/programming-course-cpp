@@ -17,7 +17,7 @@ Powrót do [Instrukcje sterujace ](/1-programowanie-strukturalne/1-2-instrukcje-
 
 [Petla for](/1-programowanie-strukturalne/1-2-instrukcje-sterujace/1-2-2-petla-for/README.md) (powrót) \
 Zadanie 1 - [Tabliczka mnozenia](#zadanie-1---tabliczkka-mnozenia) \
-Zadanie 2 -  [Prostokąt]()\
+Zadanie 2 - [Prostokąt](#zadanie-2---prostokąt)\
 Zadanie 3 -  \
 Zadanie 4 -  \
 Zadanie 5 - 
@@ -47,7 +47,7 @@ Napisz program z wykkorzystaniem pętli for, który wygeneruje tabliczkę mnoże
 
 Kod źródłowy: [zad1-tabliczka-mnozenia.cpp](zad1-tabliczka-mnozenia.cpp)
 
-### Zadanie 2 - Prostokąt
+### Zadanie 2 - Prostokat
 
 Wykorzystująć pętlę for, narysuj z znaku `*` obrys prostokąta o danej szerokości i wysokości podanej przez użytkownika.
 
@@ -66,3 +66,28 @@ Podaj wysokosc:
 ```
 
 Kod źródłowy: [zad2-prostokat.cpp](zad2-prostokat.cpp)
+
+### zadanie 3 - Dywan
+
+Rozbudowujac program z zadania 2 [Prostokat](#zadanie-2---prostokat), wypełnij jsrodek prostokąta dodając naprzemiennie ułożone w **"szachownice"** znaki `*` oraz `#`. Do zrobienia obramowania zamien kolejno dla poziomych linii znaku `-` a dla pionowych `|`.
+
+Przykład działania programu:
+
+```text
+Podaj szerokosc: 
+20
+Podaj wysokosc: 
+10
+--------------------
+|#*#*#*#*#*#*#*#*#*|
+|*#*#*#*#*#*#*#*#*#|
+|#*#*#*#*#*#*#*#*#*|
+|*#*#*#*#*#*#*#*#*#|
+|#*#*#*#*#*#*#*#*#*|
+|*#*#*#*#*#*#*#*#*#|
+|#*#*#*#*#*#*#*#*#*|
+|*#*#*#*#*#*#*#*#*#|
+--------------------
+```
+
+Kod źródłowy: [zad3-dywan.cpp](zad3-dywan.cpp)
