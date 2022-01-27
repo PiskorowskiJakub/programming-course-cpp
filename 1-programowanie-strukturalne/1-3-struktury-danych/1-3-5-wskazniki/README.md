@@ -1,6 +1,6 @@
 # Programming-course-cpp
 
-`Jakub Piskorowski on 31/12/2021 wersja: 1.1`
+`Jakub Piskorowski on 31/12/2021 wersja: 1.2`
 
 ## Temat: Wskaźniki
 
@@ -254,12 +254,9 @@ using namespace std;
 void wypelnijTablice( int t[], int iRozmiar )
 {
     cout << "Podaj " << iRozmiar << " liczb:" << endl;
-    int i = 0;
-    do
-    {
+    for(int i=0; i < iRozmiar; i++){
         cin >> t[ i ];
-        i++;
-    } while( i < iRozmiar );
+    }
    
 }
 
@@ -267,12 +264,10 @@ int main()
 {
     int moja_tablica[ 5 ];
     wypelnijTablice( moja_tablica, 5 );
-    int i = 0;
-    do
-    {
+
+    for(int i=0; i < 5; i++){
         cout << moja_tablica[ i ] << ", ";
-        i++;
-    } while( i < 5 );
+    } 
    
     return 0;
 }
