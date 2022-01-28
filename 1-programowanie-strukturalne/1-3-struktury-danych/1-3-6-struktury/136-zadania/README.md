@@ -87,6 +87,7 @@ Po jakiej kategorii chcial bys wyszukac ksiazke:
 1. Rok wydania
 2. Cena
 3. Wydawnictwo
+0. Wyjscie
 ```
 
 Po wybraniu **opcji 1** i podaniu roku np. **1928** powinny pokazać się następujące pozycje książek:
@@ -97,6 +98,7 @@ Po jakiej kategorii chcial bys wyszukac ksiazke:
 1. Rok wydania
 2. Cena
 3. Wydawnictwo
+0. Wyjscie
 1
 Podaj od jakiego roku chcesz zobaczyc ksiazki: 1928
 Znalezione ksiazki:

@@ -1,6 +1,6 @@
 # Programming-course-cpp
 
-`Jakub Piskorowski on 11/01/2022 wersja: 1.0`
+`Jakub Piskorowski on 11/01/2022 wersja: 1.1`
 
 ## Temat: Tablice znakowe i obiekty string
 
@@ -136,7 +136,8 @@ char cn[] = "string";
 string s = s1 + '-' + cn;
 cout << s << endl;
 
-cout << "Length: " << s.length();
+cout << "Length string: " << s1.length() << endl;
+cout << "Length tablica: " << sizeof(cn) << endl;
 ```
 
 ### 6 Zamiana znakow w stringu
