@@ -1,5 +1,7 @@
 # Programming-course-cpp
 
+`Jakub Piskorowski on 29/12/2021`
+
 ## Przygotowanie środowiska do pracy
 
 1. [Visual Studio Code ](#1-visual-studio-code)  \

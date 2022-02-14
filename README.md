@@ -1,5 +1,6 @@
 # Programming-course-cpp
 
+`Jakub Piskorowski on 29/12/2021`
 
 ## Opis
 
@@ -38,6 +39,7 @@ Fail :x:
 1 [Programowanie strukturalne](1-programowanie-strukturalne/README.md) \
 &emsp;1.0a [Przygotowanie środowiska](1-programowanie-strukturalne/1-0a-przygotowanie-srodowiska/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) \
 &emsp;1.0b [Uruchomienie programu](1-programowanie-strukturalne/1-0b-uruchomienie-programu/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) \
+&emsp;1.0c [Wprowadzenie do git](1-programowanie-strukturalne/1-0c-wprowadzenie-do-git/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) \
 &emsp;1.1 [Podstawy programowania](1-programowanie-strukturalne/1-1-podstawy-programowania/README.md)  \
 &emsp;&emsp;1.1.1 [Struktura prostego programu Cpp](1-programowanie-strukturalne/1-1-podstawy-programowania/1-1-1-struktura-prostego-programu-cpp/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) \
 &emsp;&emsp;1.1.2 [Typy danych](1-programowanie-strukturalne/1-1-podstawy-programowania/1-1-2-typy-danych/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) \

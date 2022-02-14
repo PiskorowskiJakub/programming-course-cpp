@@ -1,5 +1,7 @@
 # Programming-course-cpp
 
+`Jakub Piskorowski on 29/12/2021`
+
 ## Pobranie i uruchomienie projektu
 
 1. [Pobranie kodu źródłowego z repozytorium GitHub](#1-pobranie-kodu-zrodlowego-z-repozytorium-github)
