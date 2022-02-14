@@ -78,7 +78,7 @@ Rozwiązanie zadania: [zad3.cpp](zad3.cpp)
 
 ### Zadanie 4
 
-Napisz program wyswietlajacy tablice o rozmiarze 3 wierszy oraz 5 kolumn. Wypelniona kolejnymi wartosciami poczawszy od liczby 1 do n.
+Napisz program wyswietlajacy tablice o rozmiarze 3 wierszy oraz 5 kolumn. Wypelniona automatycznie kolejnymi wartosciami poczawszy od liczby 1 do n.
 
 Oczekiwany rezultat:
 
