@@ -56,7 +56,7 @@ K5: &emsp; `Jeśli p mod d  = 0`, &emsp; jeśli p dzieli się przez d, to nie je
 K6: &emsp; `Pisz p` &emsp; p jest pierwsze \
 K7: &emsp; `lp ← lp + 1` &emsp; zwiększamy licznik wygenerowanych liczb pierwszych \
 K8: &emsp; `p ← p + 1` &emsp; przechodzimy do kolejnej liczby, kandydata \
-09: &emsp; `Zakończ`
+K9: &emsp; `Zakończ`
 
 Kod źrodłowy: [liczby-pierwsze.cpp](liczby-pierwsze.cpp)
 

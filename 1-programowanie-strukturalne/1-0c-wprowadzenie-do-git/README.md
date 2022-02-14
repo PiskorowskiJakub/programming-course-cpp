@@ -17,6 +17,8 @@ Powrót do głównego [folderu](../../README.md)
 ## 0 Skrot - podstawowe komendy
 
 ```text
+git pull
+
 git add *
 
 git status
@@ -124,3 +126,9 @@ git push origin main
 ```
 
 ![Git push origin main](img/13gitPush.png)
+
+Aby pobrać zmiany z zdalnego repozytorium nalezy użyć polecenia `git pull`.
+
+```text
+git pull
+```
