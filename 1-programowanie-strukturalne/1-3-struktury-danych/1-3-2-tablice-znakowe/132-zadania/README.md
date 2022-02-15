@@ -17,7 +17,7 @@ Powrót do [Struktury danych](/1-programowanie-strukturalne/1-3-struktury-danych
 [Tablice](/1-programowanie-strukturalne/1-3-struktury-danych/1-3-1-tablice/README.md) (powrót) \
 &emsp;Zadanie 1 - [Poszukiwanie pozycji](#zadanie-1---poszukiwanie-pozycji)\
 &emsp;Zadanie 2 - [Zamiana znaków](#zadanie-2---zamiana-znakow) \
-&emsp;Zadanie 3\* - Znalezienie nazwy pliku w tekscie \
+&emsp;Zadanie 3\* - [Poszukiwanie nazwy pliku w tekscie](#zadanie-3---poszukiwanie-nazwy-pliku-w-tekscie) \
 &emsp;Zadanie 4\* - [Zamiana małych liter na duże](#zadanie-4---zamiana-malych-liter-na-duze)
 
 ---
@@ -52,6 +52,38 @@ Zmodyfikowany wyraz: It-is-a-long-established-fact-that-a-reader-will-be-distrac
 ```
 
 Kod źródłowy: [zad2-zamiana-znakow.cpp](zad2-zamiana-znakow.cpp)
+
+### Zadanie 3* - Poszukiwanie nazwy pliku w tekscie
+
+Zadanie polega na przeszukaniu tekstu w celu znalezienia nazwy pliku oraz jego rozszerzenia. Punktem charakterystycznym będzie znalezienie pozycji kropki oraz od razu po tej kropce znajduje się jakiś znak różny od spacji, ponieważ jeżeli będzie spacja oznaczać to będzie iż po kkropce znajduje się koniec zdania. Aby to zrobić najpierw należy znaleźć pozycję kilku punkktów chharakterystycznych, po których będziemy się poruszać. Poniżej zostały przedstawione wymagane pozycje do wyświetlenia:
+
+1. Pozycja końca tekstu,
+2. pozycja kropki (po której znajduje się znak różny od spacji),
+3. pozycja początku nazwy pliku.
+
+Wykorzystując zebrane powyżej pozycje możemy zapisać teraz zapisać nazwę i rozszerzenie.
+
+4. Nazwa pliku,
+5. rozszerzenie.
+
+Przykładowy tekst wprowadzany:
+
+```tekst
+Tekst. nazwa.cpp tekst
+```
+
+Oczekiwany rezultat:
+
+```text
+Poszukiwana nazwa pliku w tekscie: Tekst. nazwa.cpp tekst
+Pozycja konca: 21
+Pozycja kropki: 12
+Pozycja poczatku nazwy pliku: 7
+Nazwa pliku: nazwa
+Rozszerzenie pliku: .cpp
+```
+
+Kod źródłowy: [zad3-nazwa-pliku.cpp](zad3-nazwa-pliku.cpp)
 
 ### Zadanie 4* - Zamiana malych liter na duze
 
