@@ -7,8 +7,9 @@
 0 [Skrót - podstawowe komendy](#0-skrot---podstawowe-komendy) \
 1 [Stworzenie konta na GitHub](#1-stworzenie-konta-na-github) \
 2 [Stworz nowe repozytorium](#2-stworz-nowe-repozytorium) \
-3 [Klonowanie repozytorium](#3-klonowanie-repozytorium) \
-4 [Dodanie pliku](#4-dodanie-pliku)
+3 [Instalacja git bash](#3-instalacja-git-bash) \
+5 [Klonowanie repozytorium](#4-klonowanie-repozytorium) \
+6 [Dodanie pliku](#5-dodanie-pliku)
 
 Powrót do głównego [folderu](../../README.md)
 <!-- ![Klonowanie repozytorium](img/clone-repositiories.PNG) -->
@@ -51,7 +52,23 @@ kliknij **Utwórz repozytorium (Create repository)**.
 
 Gratulacje! Skonfigurowałeś swoje pierwsze repozytorium na GitHub.com.
 
-## 3 Klonowanie repozytorium
+## 3 Instalacja git bash
+
+Pobieramy program instalacyjny z strony [git-scm.com](https://git-scm.com/downloads) i wybieramy na jaki system operacyjny chcemy zainstalować gita.
+
+![Poberanie gita](img/14gitDownload.png)
+
+Nastepnie wybieramy wersję x32 lub 64.
+
+![Poberanie gita](img/15gitDownload.png)
+
+Następnie w procesie instalacji nie wprawadzamy zmian, zostawiamy wszystkkie opcje rekomendowane.
+
+Po zakończonej instalacji możemy włączyć **"git bash"**.
+
+![Poberanie gita](img/16gitDownload.png)
+
+## 4 Klonowanie repozytorium
 
 Następnie kliając w przycisk **Code**, pozostając w zakładce **HTTPS** kopiujemy link do repozytorium.
 
@@ -79,7 +96,7 @@ W eksloratorze plików otrzymamy **ukryty folder** ``.git`` w tórym znajdują s
 
 Teraz możesz tworzyć zawartość twojego repozytorium.
 
-## 4 Dodanie pliku
+## 5 Dodanie pliku
 
 Pierwszym plikiem, który zostanie wrzucony będzie plik `README.md`, który będzie zawierał opis tego co zawiera repozytorium.
 
