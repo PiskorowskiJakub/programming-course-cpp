@@ -12,20 +12,17 @@
 6 [Dodanie pliku](#5-dodanie-pliku)
 
 Powrót do głównego [folderu](../../README.md)
-<!-- ![Klonowanie repozytorium](img/clone-repositiories.PNG) -->
+
 ---
 
 ## 0 Skrot - podstawowe komendy
 
 ```text
 git pull
-
+----------
 git add *
-
 git status
-
 git commit -m "Komentarz"
-
 git push origin main
 ```
 
@@ -62,7 +59,7 @@ Nastepnie wybieramy wersję x32 lub 64.
 
 ![Poberanie gita](img/15gitDownload.png)
 
-Następnie w procesie instalacji nie wprawadzamy zmian, zostawiamy wszystkkie opcje rekomendowane.
+Następnie w procesie instalacji nie wprawadzamy zmian, zostawiamy wszystkie opcje rekomendowane.
 
 Po zakończonej instalacji możemy włączyć **"git bash"**.
 
