@@ -15,8 +15,8 @@
 ### Spis treści
 
 2 [Programming-course-cpp](/README.md) (powrót) \
-&emsp;2.1. Wstęp \
-&emsp;&emsp;2.1.1. Podstawy złożoności obliczeniowej \
+&emsp;2.1. [Wstęp](2-1-wstep/README.md) \
+&emsp;&emsp;2.1.1. [Podstawy złożoności obliczeniowej](2-1-wstep/2-1-1-zlozonosc-obliczeniowa/README.md) \
 &emsp;&emsp;2.1.2. Zapis danych do pliku \
 &emsp;2.2. [Podstawowe algorytmy](/2-algorytmika/2-2-podstawowe-algorytmy/README.md) \
 &emsp;&emsp;2.2.1. [Algorytm wyznaczania liczb pierwszych](/2-algorytmika/2-2-podstawowe-algorytmy/2-2-1-liczby-pierwsze/README.md) \

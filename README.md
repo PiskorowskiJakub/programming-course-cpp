@@ -59,8 +59,8 @@ Fail :x:
 &emsp;&emsp;1.3.6. [Struktury danych](1-programowanie-strukturalne/1-3-struktury-danych/1-3-6-struktury/README.md) ![#fd646e](https://via.placeholder.com/15/fd646e/000000?text=+)\
 &emsp;1.4. [Dodatkowe programy](1-programowanie-strukturalne/1-4-dodatkowe/README.md) \
 2 [Algorytmika](2-algorytmika/README.md) \
-&emsp;2.1. Wstęp \
-&emsp;&emsp;2.1.1. Podstawy złożoności obliczeniowej \
+&emsp;2.1. [Wstęp](2-algorytmika/2-1-wstep/README.md) \
+&emsp;&emsp;2.1.1. [Podstawy złożoności obliczeniowej](2-algorytmika/2-1-wstep/2-1-1-zlozonosc-obliczeniowa/README.md) \
 &emsp;&emsp;2.1.2. Zapis danych do pliku \
 &emsp;2.2. [Podstawowe algorytmy](2-algorytmika/2-2-podstawowe-algorytmy/README.md) \
 &emsp;&emsp;2.2.1. [Algorytm wyznaczania liczb pierwszych](2-algorytmika/2-2-podstawowe-algorytmy/2-2-1-liczby-pierwsze/README.md) \
