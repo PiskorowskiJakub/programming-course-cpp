@@ -63,8 +63,8 @@ Fail :x:
 &emsp;&emsp;2.1.1. [Podstawy złożoności obliczeniowej](2-algorytmika/2-1-wstep/2-1-1-zlozonosc-obliczeniowa/README.md) \
 &emsp;&emsp;2.1.2. Zapis danych do pliku \
 &emsp;2.2. [Podstawowe algorytmy](2-algorytmika/2-2-podstawowe-algorytmy/README.md) \
-&emsp;&emsp;2.2.1. [Algorytm wyznaczania liczb pierwszych](2-algorytmika/2-2-podstawowe-algorytmy/2-2-1-liczby-pierwsze/README.md) \
-&emsp;&emsp;2.2.2. Obliczanie NWW i NWD \
+&emsp;&emsp;2.2.1. [Algorytm wyznaczania liczb pierwszych](2-algorytmika/2-2-podstawowe-algorytmy/2-2-1-liczby-pierwsze/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) \
+&emsp;&emsp;2.2.2. [Obliczanie NWW i NWD](2-algorytmika/2-2-podstawowe-algorytmy/2-2-2-nww-nwd/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) \
 &emsp;&emsp;2.2.3. Szyfr Cezara \
 &emsp;&emsp;2.2.4. Ciąg Fibonacciego \
 &emsp;2.3. Algorytmy wyszukiwania \
