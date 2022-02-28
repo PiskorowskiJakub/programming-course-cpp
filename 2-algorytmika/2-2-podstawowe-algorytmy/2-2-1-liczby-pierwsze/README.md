@@ -58,11 +58,11 @@ K7: &emsp; `lp ← lp + 1` &emsp; zwiększamy licznik wygenerowanych liczb pierw
 K8: &emsp; `p ← p + 1` &emsp; przechodzimy do kolejnej liczby, kandydata \
 K9: &emsp; `Zakończ`
 
-Kod źrodłowy: [liczby-pierwsze.cpp](liczby-pierwsze.cpp)
-
 **Wynik:**
 
 ``` text
 Ile liczb pierwszych chcesz wyswietlic: 15
 Liczby pierwsze: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 
 ```
+
+Kod źrodłowy: [liczby-pierwsze.cpp](liczby-pierwsze.cpp)

@@ -81,8 +81,6 @@ k8: &emsp;&emsp; `Jeśli tab + klucz >= a`, \
 &emsp; &emsp;&emsp; `to tab += klucz`, \
 &emsp; &emsp;&emsp; `inaczej tab ← tab + klucz + 26`,
 
-Kod źrodłowy: [szyfr-cezara.cpp](szyfr-cezara.cpp)
-
 Wynik:
 
 ```text
@@ -91,5 +89,7 @@ Podaj klucz z przedzialu [-26..26]: -2
 Po zaszyfrowaniu: kypagl
 Po rozszyfrowaniu: marcin
 ```
+
+Kod źrodłowy: [szyfr-cezara.cpp](szyfr-cezara.cpp)
 
 <!--Źródło: [algorytm.edu.pl](http://www.algorytm.edu.pl/algorytmy-maturalne/szyfr-cezara.html) -->
