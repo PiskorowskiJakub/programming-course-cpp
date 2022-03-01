@@ -14,7 +14,7 @@ Powrót do [Struktury danych](/1-programowanie-strukturalne/1-3-struktury-danych
 
 ## Dział 132 - Tablice znakowe
 
-[Tablice](/1-programowanie-strukturalne/1-3-struktury-danych/1-3-1-tablice/README.md) (powrót) \
+[Tablice znakowe](/1-programowanie-strukturalne/1-3-struktury-danych/1-3-2-tablice-znakowe/README.md) (powrót) \
 &emsp;Zadanie 1 - [Poszukiwanie pozycji](#zadanie-1---poszukiwanie-pozycji)\
 &emsp;Zadanie 2 - [Zamiana znaków](#zadanie-2---zamiana-znakow) \
 &emsp;Zadanie 3\* - [Poszukiwanie nazwy pliku w tekscie](#zadanie-3---poszukiwanie-nazwy-pliku-w-tekscie) \
