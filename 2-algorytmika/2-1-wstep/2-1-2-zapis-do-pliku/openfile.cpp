@@ -1,6 +1,6 @@
 //
 //  openfile.cpp
-//  2-algorytmika\2-1-wstep\2-1-2-zlozonosc-obliczeniowa\
+//  2-algorytmika\2-1-wstep\2-1-2-zapis-do-pliku\
 //
 //  Created by Jakub Piskorowski on 03/03/2022 wersja: 1.0
 //  Copyright © 2021 Jakub Piskorowski. All rights reserved.
