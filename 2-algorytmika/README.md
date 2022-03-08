@@ -16,8 +16,8 @@
 
 2 [Programming-course-cpp](/README.md) (powrót) \
 &emsp;2.1. [Wstęp](2-1-wstep/README.md) \
-&emsp;&emsp;2.1.1. [Podstawy złożoności obliczeniowej](2-1-wstep/2-1-1-zlozonosc-obliczeniowa/README.md) \
-&emsp;&emsp;2.1.2. Zapis danych do pliku \
+&emsp;&emsp;2.1.1. [Podstawy złożoności obliczeniowej](2-1-wstep/2-1-1-zlozonosc-obliczeniowa/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) \
+&emsp;&emsp;2.1.2. [Zapis danych do pliku](2-1-wstep/2-1-2-zapis-do-pliku/README.md) ![#80b900](https://via.placeholder.com/15/80b900/000000?text=+) \
 &emsp;2.2. [Podstawowe algorytmy](/2-algorytmika/2-2-podstawowe-algorytmy/README.md) \
 &emsp;&emsp;2.2.1. [Algorytm wyznaczania liczb pierwszych](/2-algorytmika/2-2-podstawowe-algorytmy/2-2-1-liczby-pierwsze/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) \
 &emsp;&emsp;2.2.2. [Obliczanie NWW i NWD](/2-algorytmika/2-2-podstawowe-algorytmy/2-2-2-nww-nwd/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) \
