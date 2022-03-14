@@ -24,14 +24,6 @@ W kadym folderze znajduj się programy na różnych poziomach zaawansowania. Naj
 
 **Rozwiązanie zadania** - bedą pojawiać dopiero aż wszyscy biorący udział w kursie przerobią dane zadanie.
 
-<!-- 
-
-Done :heavy_check_mark: \
-Not implement :heavy_minus_sign: \
-Fail :x:
-
--->
-
 ---
 
 ## Spis treści
@@ -67,8 +59,8 @@ Fail :x:
 &emsp;&emsp;2.2.2. [Obliczanie NWW i NWD](2-algorytmika/2-2-podstawowe-algorytmy/2-2-2-nww-nwd/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) \
 &emsp;&emsp;2.2.3. [Szyfr Cezara](/2-algorytmika/2-2-podstawowe-algorytmy/2-2-3-szyfr-cezara/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) \
 &emsp;&emsp;2.2.4. [Ciąg Fibonacciego](/2-algorytmika/2-2-podstawowe-algorytmy/2-2-4-ciag-fibonacciego/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) \
-&emsp;2.3. Algorytmy wyszukiwania \
-&emsp;&emsp;2.3.1. Wyszukiwanie naturalne \
+&emsp;2.3. [Algorytmy wyszukiwania](/2-algorytmika/2-3-algorytmy-wyszukiwania/README.md) \
+&emsp;&emsp;2.3.1. [Wyszukiwanie naturalne](/2-algorytmika/2-3-algorytmy-wyszukiwania/2-3-1-wyszukiwanie-naturalne/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) \
 &emsp;&emsp;2.3.2. Wyszukiwanie binarne \
 &emsp;2.4. Algorytmy sortowania \
 &emsp;&emsp;2.4.1. Sortowanie przez scalanie \
