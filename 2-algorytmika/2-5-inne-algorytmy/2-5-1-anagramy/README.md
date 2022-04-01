@@ -16,6 +16,7 @@ Powrót do [Inne algorytmy](/2-algorytmika/2-5-inne-algorytmy/README.md)
 ---
 
 ## Objaśnienie
+
 **Anagram** to wyraz lub zdanie powstałe po przestawieniu liter innego wyrazu (zdania). Oba wyrazy składają się z tej samej puli znaków, tylko w innym porządku.
 
 Kilka przykładów:
@@ -88,5 +89,7 @@ Podaj pierwszy wyraz: adam
 Podaj drugi wyraz: dama
 Podane wyrazy sa anagramami
 ```
+
+Kod źródłowy: [anagram.cpp](anagram.cpp)
 
 <!-- Źródło: [algorytm.edu.pl](http://www.algorytm.edu.pl/algorytmy-maturalne/anagramy.html) -->
