@@ -3,7 +3,7 @@
 //  1-programowanie-strukturalne\1-3-struktury-danych\1-3-4-przeciazenie-funkkcji\
 //
 //  Created by Jakub Piskorowski on 17/01/2022 wersja: 1.0
-//  Copyright © 2021 Jakub Piskorowski. All rights reserved.
+//  Copyright © 2022 Jakub Piskorowski. All rights reserved.
 //	GitHub: https://github.com/PiskorowskiJakub/programming-course-cpp
 //	
 //  Przedstawienie na czym polega przeciazenie nazwy funkcji

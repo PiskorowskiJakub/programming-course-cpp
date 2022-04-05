@@ -3,7 +3,7 @@
 //  1-programowanie-strukturalne\1-2-instrukcje-sterujace\1-2-5-switch\
 //
 //  Created by Jakub Piskorowski on 19/01/2022 wersja: 1.0
-//  Copyright © 2021 Jakub Piskorowski. All rights reserved.
+//  Copyright © 2022 Jakub Piskorowski. All rights reserved.
 //	GitHub: https://github.com/PiskorowskiJakub/programming-course-cpp
 //	
 //  Przedstawienie dzialania instrukcji sterującej switch
