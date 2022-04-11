@@ -26,7 +26,7 @@ Leonardo Fibonacci był włoskim matematykiem żyjącym w latach od 1175 do 1250
 Oto kilka pierwszych wyrazów ciągu Fibonacciego:
 
 ```text
-0 1 1 2 3 5 8 13 21 34 55 89 ...
+0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584...
 ```
 
 Obliczając `n-ty` wyraz ciągu, musisz posługiwać się wartościami poprzednimi czyli `n-1`, `n-2` itd. aż dojdziesz do wartości które znasz. Są nimi wartości dla `F0` i `F1`.
