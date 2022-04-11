@@ -46,15 +46,15 @@ Obliczając `n-ty` wyraz ciągu, musisz posługiwać się wartościami poprzedni
 K1: &emsp; `f0 ← 0` &emsp; pierwsza lub f i-2 liczba Fibonacciego \
 K2: &emsp; `f1 ← 1` &emsp; druga lub f i-1 liczba Fibonacciego \
 K3: &emsp; `Dla i = 0, 1, ..., n:` \
-&emsp; &emsp; &emsp; `wykonuj kroki K4...K8` \
+&emsp; &emsp; &emsp; `wykonuj kroki K4...K9` \
 K4: &emsp; `Jeśli i > 1,` \
-&emsp; &emsp; &emsp; `to idź do K6` \
-K5: &emsp; `f ← i` \
+&emsp; &emsp; &emsp; `to wykonuj kroki K6 do k8` \
+K5: &emsp; `inaczej f ← i` \
 &emsp; &emsp; &emsp; `i następny obieg pętli K3` \
 K6: &emsp; `f ← f0 + f1` &emsp; obliczamy kolejną liczbę Fibonacciego \
 K7: &emsp; `f0 ← f1` &emsp; zapamiętujemy wyniki obliczeń pośrednich \
 K8: &emsp; `f1 ← f` &emsp; dla następnego obiegu pętli \
-K9: &emsp; `Pisz f` \
+K9: &emsp; `Pisz f` &emsp; wypisujemy liczbę ciągu\
 K10: &emsp; `Zakończ`
 
 Wynik działania programu:
