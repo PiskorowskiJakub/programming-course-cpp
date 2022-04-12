@@ -1,6 +1,6 @@
 # Programming-course-cpp
 
-`Jakub Piskorowski on 28/02/2022 wersja: 1.0`
+`Jakub Piskorowski on 28/02/2022 wersja: 1.1`
 
 ## Temat: Ciąg Fibonacciego
 
@@ -20,6 +20,16 @@ Powrót do [Podstawowe algorytmy](/2-algorytmika/2-2-podstawowe-algorytmy/README
 Leonardo Fibonacci był włoskim matematykiem żyjącym w latach od 1175 do 1250. Jest on autorem specyficznego ciągu liczbowego, który pojawia się w wielu zastosowaniach informatycznych (i nie tylko ).
 
 **Ciąg Fibonacciego** to szczególny rodzaj ciągu liczb naturalnych. Liczby tego ciągu nazywane są liczbami Fibonacciego. Spotykane są w wielu dziedzinach i sytuacjach np. w matematyce, w przyrodzie, na rynkach giełdowych.
+
+Przyłady raficzne reprezentacji złotego podziału.
+
+![spirala poziomow Fibonacciego](img/spirala-poziomow-fibonacciego.jpg)
+Żródło: [e-kursy-walut.pl](https://e-kursy-walut.pl/warto-wiedziec/poziomy-fibonacciego-dzialaja-na-bitcoinie/) \
+Spirala poziomów Fibonacciego
+
+![zloty podzial w naturze](img/zloty-podzial-w-naturze.jpg)
+Żródło: [ciekawe.org](https://ciekawe.org/2016/06/18/geometria-roslin-ciag-fibonacciego-w-przyrodzie/) \
+Zloty podzial w naturze
 
 :exclamation: **Ciąg Fibonacciego** to ciąg liczb, w którym pierwszy wyraz jest równy 0, drugi jest równy 1 a każdy następny jest sumą dwóch poprzednich.
 
