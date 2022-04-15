@@ -21,7 +21,7 @@ Leonardo Fibonacci był włoskim matematykiem żyjącym w latach od 1175 do 1250
 
 **Ciąg Fibonacciego** to szczególny rodzaj ciągu liczb naturalnych. Liczby tego ciągu nazywane są liczbami Fibonacciego. Spotykane są w wielu dziedzinach i sytuacjach np. w matematyce, w przyrodzie, na rynkach giełdowych.
 
-Przyłady raficzne reprezentacji złotego podziału.
+Przykłady graficzne reprezentacji złotego podziału.
 
 ![spirala poziomow Fibonacciego](img/spirala-poziomow-fibonacciego.jpg) \
 Żródło: [e-kursy-walut.pl](https://e-kursy-walut.pl/warto-wiedziec/poziomy-fibonacciego-dzialaja-na-bitcoinie/) \
@@ -29,7 +29,7 @@ Spirala poziomów Fibonacciego
 
 ![zloty podzial w naturze](img/zloty-podzial-w-naturze.jpg) \
 Żródło: [ciekawe.org](https://ciekawe.org/2016/06/18/geometria-roslin-ciag-fibonacciego-w-przyrodzie/) \
-Zloty podzial w naturze
+Zloty podział w naturze
 
 :exclamation: **Ciąg Fibonacciego** to ciąg liczb, w którym pierwszy wyraz jest równy 0, drugi jest równy 1 a każdy następny jest sumą dwóch poprzednich.
 
