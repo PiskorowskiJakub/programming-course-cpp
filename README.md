@@ -69,4 +69,4 @@ W kadym folderze znajduj się programy na różnych poziomach zaawansowania. Naj
 &emsp;&emsp;2.4.4. Sortowanie przez wstawianie \
 &emsp;2.5. [Inne algorytmy](2-algorytmika/2-5-inne-algorytmy/README.md) \
 &emsp;&emsp;2.5.1. [Sprawdzanie anagramów](/2-algorytmika/2-5-inne-algorytmy/2-5-1-anagramy/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+)\
-&emsp;&emsp;2.5.2. Algorytm wydawania reszty
+&emsp;&emsp;2.5.2. [Algorytm wydawania reszty](/2-algorytmika/2-5-inne-algorytmy/2-5-2-wydawanie-reszty/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+)
