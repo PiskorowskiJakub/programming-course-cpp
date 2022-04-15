@@ -47,7 +47,7 @@ Nasz algorytm przyjmie liczbę, która będzie oznaczała resztę, którą mamy 
 
 **Lista kroków:**\
 
-K1: &emsp; `nominaly[] ← 500, 200, 100, 50, 20, 10, 5, 2, 1` &emsp; określenie dostępnych nominałów
+K1: &emsp; `nominaly[] ← 500, 200, 100, 50, 20, 10, 5, 2, 1` &emsp; określenie dostępnych nominałów \
 K2: &emsp; `Dopóki kwota > 0` &emsp; dopóki nie wydano całej reszty \
 &emsp; &emsp; &emsp; `wykonuj kroki od K3 do K7` \
 k3: &emsp; `Jeśli kwota >= nominaly[]` &emsp; sprawdz czy można wydać danym nominałem \
