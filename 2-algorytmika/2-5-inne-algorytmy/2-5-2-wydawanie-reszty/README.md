@@ -45,7 +45,7 @@ Nasz algorytm przyjmie liczbę, która będzie oznaczała resztę, którą mamy 
 `ile` - ile razy wydać dany nominał \
 `i` - rozpatrywanie kolejnych nominałów
 
-**Lista kroków:**\
+**Lista kroków:**
 
 K1: &emsp; `nominaly[] ← 500, 200, 100, 50, 20, 10, 5, 2, 1` &emsp; określenie dostępnych nominałów \
 K2: &emsp; `Dopóki kwota > 0` &emsp; dopóki nie wydano całej reszty \
