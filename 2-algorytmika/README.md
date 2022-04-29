@@ -26,8 +26,8 @@
 &emsp;2.3. [Algorytmy wyszukiwania](2-3-algorytmy-wyszukiwania/README.md) \
 &emsp;&emsp;2.3.1. [Wyszukiwanie naturalne](/2-algorytmika/2-3-algorytmy-wyszukiwania/2-3-1-wyszukiwanie-naturalne/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) \
 &emsp;&emsp;2.3.2. [Wyszukiwanie binarne](/2-algorytmika/2-3-algorytmy-wyszukiwania/2-3-2-wyszukiwanie-binarne/README.md) ![#80b900](https://via.placeholder.com/15/80b900/000000?text=+)\
-&emsp;2.4. Algorytmy sortowania \
-&emsp;&emsp;2.4.1. Sortowanie przez scalanie \
+&emsp;2.4. [Algorytmy sortowania](2-4-algorytmy-sortowania/README.md) \
+&emsp;&emsp;2.4.1. [Sortowanie przez scalanie](/2-algorytmika/2-4-algorytmy-sortowania/2-4-1-sortowanie-przez-scalanie/README.md) ![#fd646e](https://via.placeholder.com/15/fd646e/000000?text=+) \
 &emsp;&emsp;2.4.2. Sortowanie przez wybieranie \
 &emsp;&emsp;2.4.3. Sortowanie bąbelkowe \
 &emsp;&emsp;2.4.4. Sortowanie przez wstawianie \

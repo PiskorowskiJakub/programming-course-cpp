@@ -9,7 +9,7 @@ Przedstawienie działania algorytmu sortowania przez scalanie
 Kod źródłowy:
 [sortowanie-scalanie.cpp](sortowanie-scalanie.cpp)
 
-![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) `Poziom 1`
+![#fd646e](https://via.placeholder.com/15/fd646e/000000?text=+) `Poziom 3`
 
 Powrót do [Algorytmy sortowania](/2-algorytmika/2-4-algorytmy-sortowania/README.md)
 
@@ -80,31 +80,31 @@ Należy napisać funkcję, która, po uprzednim podzieleniu tablicy na mniejsze 
 K1: &emsp; `lSize ← m - l + 1` \
 K2: &emsp; `rSize ← r - m` \
 K3: &emsp; `tabL[lSize]` &emsp; Tablica pomocnicza \
-K4: &emsp; `tabR[rSize]` &emsp; Tablica pomocnicza \
+K4: &emsp; `tabR[rSize]` &emsp; Tablica pomocnicza
 
 K5 &emsp; `Dla x = 0,1,...,lSize` &emsp; Kopiowanie danych do tablic pomocniczych \
 &emsp; &emsp; &emsp; &emsp; `wykonuj tabL[] ← tab[l+x]` \
 K6: &emsp; `Dla y = 0,1,..., rSize` &emsp; Kopiowanie danych do tablic pomocniczych \
-&emsp; &emsp; &emsp; &emsp; `wykonuj tabR[] ← tab[m+1-y]` \
+&emsp; &emsp; &emsp; &emsp; `wykonuj tabR[] ← tab[m+1-y]`
 
 K7: &emsp; `indexL ← 0` \
 K8: &emsp; `indexR ← 0` \
-K9: &emsp; `currIndex = l` \
+K9: &emsp; `currIndex = l`
 
 K10: &emsp; `Dopóki indexL < lSize oraz indexR < rSize` &emsp; Łaczenie tablicy prawej (R) oraz lewej (L) \
 &emsp; &emsp; &emsp; &emsp; `wykonuj kroki od K11 do K12` \
 K11: &emsp; `Jeżeli tabL[indexL] <= tabR[indexR]` \
 &emsp; &emsp; &emsp; &emsp; `to tab[currIndex] ← tabL[indexL++]` \
 &emsp; &emsp; &emsp; &emsp; `inaczej tab[currIndex] ← tabR[indexR++]` \
-K12: &emsp; `currIndex++` \
+K12: &emsp; `currIndex++`
 
 K13: &emsp; `Dopóki indexL < lSize` &emsp; Jeśli w tablicy(tabL) zostały jeszcze jaieś elementy to kopiujemy je \
 &emsp; &emsp; &emsp; &emsp; `to tab[currIndex++] = tabL[indexL++]` \
 K14: &emsp; `Dopóki indexR < rSize` &emsp; Jeśli w tablicy(tabR) zostały jeszcze jaieś elementy to kopiujemy je \
-&emsp; &emsp; &emsp; &emsp; `to tab[currIndex++] = tabR[indexR++]` \
+&emsp; &emsp; &emsp; &emsp; `to tab[currIndex++] = tabR[indexR++]`
 
 K15: &emsp; `delete[] tabL` \
-K16: &emsp; `delete[] tabR` \
+K16: &emsp; `delete[] tabR`
 
 Wynik działania programu:
 

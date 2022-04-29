@@ -9,7 +9,7 @@ Przedstawienie działania algorytmu wyszukiwania binarnego
 Kod źródłowy:
 [wyszukiwanie-binarne.cpp](wyszukiwanie-binarne.cpp)
 
-![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) `Poziom 1`
+![#80b900](https://via.placeholder.com/15/80b900/000000?text=+) `Poziom 2`
 
 Powrót do [Algorytmy wyszukiwania](/2-algorytmika/2-3-algorytmy-wyszukiwania/README.md)
 

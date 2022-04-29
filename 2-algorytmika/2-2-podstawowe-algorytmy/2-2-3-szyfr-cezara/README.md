@@ -1,6 +1,6 @@
 # Programming-course-cpp
 
-`Jakub Piskorowski on 23/02/2022 wersja: 1.0`
+`Jakub Piskorowski on 23/02/2022 wersja: 1.1`
 
 ## Temat: Szyfr Cezara
 
@@ -9,7 +9,7 @@ Przedstawienie działania szyfru Cezara.
 Kod źródłowy:
 [szyfr-cezara.cpp](szyfr-cezara.cpp)
 
-![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) `Poziom 1`
+![#80b900](https://via.placeholder.com/15/80b900/000000?text=+) `Poziom 2`
 
 Powrót do [Podstawowe algorytmy](/2-algorytmika/2-2-podstawowe-algorytmy/README.md)
 
