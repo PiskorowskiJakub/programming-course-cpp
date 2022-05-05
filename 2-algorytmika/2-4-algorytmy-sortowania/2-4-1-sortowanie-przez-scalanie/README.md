@@ -36,7 +36,6 @@ Jeśli indeks prawej części tablicy (r) jest większy od indeksu lewej (l) cz�
 Sortowanie przez scalanie
 <!--Źródło: [rozanskit.com](https://rozanskit.com/pl/teaching/jsp2019/merge_sort/) -->
 
-
 ![Merge sort bar](https://github.com/PiskorowskiJakub/programming-course-cpp/blob/main/2-algorytmika/2-4-algorytmy-sortowania/2-4-1-sortowanie-przez-scalanie/img/merge-sort-bar.gif?raw=true) \
 Sortowanie przez scalanie - wykres słupkowy
 
@@ -62,7 +61,7 @@ void MergeSort(int* tab, int l, int r) {
 Należy napisać funkcję, która, po uprzednim podzieleniu tablicy na mniejsze części, wykona prostą operacje porównania oraz na nowu połączy tablice.
 
 **Wejście:** \
-`tab` - tablica z wartościami \
+`tab` - tablica z losowymi wartościami liczb całowitych \
 `l` - indeks lewej strony tablicy \
 `m` - indeks środka tablicy \
 `r` - indeks prawej strony tablicy
