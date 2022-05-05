@@ -64,7 +64,7 @@ W kadym folderze znajduj się programy na różnych poziomach zaawansowania. Naj
 &emsp;&emsp;2.3.2. [Wyszukiwanie binarne](/2-algorytmika/2-3-algorytmy-wyszukiwania/2-3-2-wyszukiwanie-binarne/README.md) ![#80b900](https://via.placeholder.com/15/80b900/000000?text=+)\
 &emsp;2.4. [Algorytmy sortowania](/2-algorytmika/2-4-algorytmy-sortowania/README.md) \
 &emsp;&emsp;2.4.1. [Sortowanie przez scalanie](/2-algorytmika/2-4-algorytmy-sortowania/2-4-1-sortowanie-przez-scalanie/README.md) ![#fd646e](https://via.placeholder.com/15/fd646e/000000?text=+) \
-&emsp;&emsp;2.4.2. Sortowanie przez wybieranie \
+&emsp;&emsp;2.4.2. [Sortowanie przez wybieranie](/2-algorytmika/2-4-algorytmy-sortowania/2-4-2-sortowanie-przez-wybieranie/README.md) ![#fd646e](https://via.placeholder.com/15/fd646e/000000?text=+) \
 &emsp;&emsp;2.4.3. Sortowanie bąbelkowe \
 &emsp;&emsp;2.4.4. Sortowanie przez wstawianie \
 &emsp;2.5. [Inne algorytmy](2-algorytmika/2-5-inne-algorytmy/README.md) \
