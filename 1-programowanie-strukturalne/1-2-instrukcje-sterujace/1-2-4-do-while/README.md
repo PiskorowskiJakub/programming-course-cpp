@@ -6,7 +6,7 @@
 
 Przedstawienie działania pętli do while.
 
-![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) `Poziom 1`
+&#x1F4D2; Poziom 1
 
 Lista zadań: [124-zadania](124-zadania/README.md) \
 &emsp;[Zadanie 1](124-zadania/README.md#zadanie-1) \

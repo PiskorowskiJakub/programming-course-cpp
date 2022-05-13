@@ -8,7 +8,7 @@ Przedstawienie działania Instrukkcji switch
 
 Kod źródłowy: [ins-switch.cpp](ins-switch.cpp)
 
-![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) `Poziom 1` 
+&#x1F4D2; Poziom 1 
 
 Lista zadań: [125-zadania](125-zadania/README.md) \
 &emsp;Zadanie 1 - [Prosty kalkulator](125-zadania/README.md#zadanie-1---prosty-kalkulator)

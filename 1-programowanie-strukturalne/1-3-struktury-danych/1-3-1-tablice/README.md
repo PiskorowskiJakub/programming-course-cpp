@@ -8,7 +8,7 @@ Przedstawienie czym są tablice oraz jak ich używać.
 
 Kod źródłowy: [tablice.cpp](tablice.cpp)
 
-![#80b900](https://via.placeholder.com/15/80b900/000000?text=+) `Poziom 2`
+&#x1F4D2; Poziom 2
 
 Lista zadań: [131-zadania](131-zadania/README.md)
 

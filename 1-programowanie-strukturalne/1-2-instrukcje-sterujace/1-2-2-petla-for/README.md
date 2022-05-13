@@ -8,7 +8,7 @@ Przedstawienie działania pętli for.
 
 Kod źródłowy: [petla-for.cpp](petla-for.cpp)
 
-![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) `Poziom 1`
+&#x1F4D2; Poziom 1
 
 Lista zadań: [122-zadania](122-zadania/README.md)
 

@@ -11,7 +11,7 @@ Kod źródłowy: \
 [p2-while.cpp](p2-while.cpp) \
 [p3-while.cpp](p3-while.cpp)
 
-![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) `Poziom 1`
+&#x1F4D2; Poziom 1
 
 Powrót do [Instrukcje sterujace](/1-programowanie-strukturalne/1-2-instrukcje-sterujace/README.md)
 
