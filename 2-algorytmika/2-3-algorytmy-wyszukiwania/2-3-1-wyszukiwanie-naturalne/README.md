@@ -9,7 +9,7 @@ Przedstawienie działania algorytmu wyszukiwania naturalnego
 Kod źródłowy:
 [wyszukiwanie-naturalne.cpp](wyszukiwanie-naturalne.cpp)
 
-![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) `Poziom 1`
+&#x1F4D2; Poziom 1
 
 Powrót do [Algorytmy wyszukiwania](/2-algorytmika/2-3-algorytmy-wyszukiwania/README.md)
 

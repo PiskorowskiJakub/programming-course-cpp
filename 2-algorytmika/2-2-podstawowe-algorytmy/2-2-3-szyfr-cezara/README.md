@@ -9,7 +9,7 @@ Przedstawienie działania szyfru Cezara.
 Kod źródłowy:
 [szyfr-cezara.cpp](szyfr-cezara.cpp)
 
-![#80b900](https://via.placeholder.com/15/80b900/000000?text=+) `Poziom 2`
+&#x1F4D7; Poziom 2
 
 Powrót do [Podstawowe algorytmy](/2-algorytmika/2-2-podstawowe-algorytmy/README.md)
 

@@ -9,7 +9,7 @@ Przedstawienie działania algorytmu do wyznaczania NWW oraz NWD.
 Kod źródłowy:
 [liczby-pierwsze.cpp](liczby-pierwsze.cpp)
 
-![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) `Poziom 1`
+&#x1F4D2; Poziom 1
 
 Powrót do [Podstawowe algorytmy](/2-algorytmika/2-2-podstawowe-algorytmy/README.md)
 

@@ -10,7 +10,7 @@ Kod źródłowy:
 [wskazniki.cpp](wskazniki.cpp) \
 [wskazniki-funkcje.cpp](wskazniki-funkcje.cpp)
 
-![#fd646e](https://via.placeholder.com/15/fd646e/000000?text=+) `Poziom 3`
+&#x1F4D5; `Poziom 3`
 
 Lista zadań: [135-zadania](135-zadania/README.md)
 

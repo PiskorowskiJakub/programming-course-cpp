@@ -10,7 +10,7 @@ Kod źródłowy: \
 Przykład 1: [p1-przeciazenie.cpp](p1-przeciazenie.cpp) \
 Przykład 2: [p2-przeciazenie.cpp](p2-przeciazenie.cpp)
 
-![#80b900](https://via.placeholder.com/15/80b900/000000?text=+) `Poziom 2` 
+&#x1F4D7; Poziom 2 
 
 Powrót do [Struktury danych](/1-programowanie-strukturalne/1-3-struktury-danych/README.md)
 

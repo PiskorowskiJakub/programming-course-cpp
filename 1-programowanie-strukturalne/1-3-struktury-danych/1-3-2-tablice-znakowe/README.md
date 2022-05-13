@@ -6,7 +6,7 @@
 
 Przedstawienie czym są tablice znakowe, obiekty string i jak ich używać.
 
-![#80b900](https://via.placeholder.com/15/80b900/000000?text=+) `Poziom 2`
+&#x1F4D7; Poziom 2
 
 Lista zadań: [132-zadania](132-zadania/README.md)
 

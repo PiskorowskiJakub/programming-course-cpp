@@ -6,13 +6,12 @@
 
 ### Poziomy zaawansowania
 
-- ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) `Poziom 1`
-- ![#80b900](https://via.placeholder.com/15/80b900/000000?text=+) `Poziom 2`
+- &#x1F4D2; Poziom 1
 
 ---
 
 ### Spis treści
 
 5 [Algorytmika](../README.md) (powrót) \
-&emsp;5.1. [Sprawdzanie anagramów](2-5-1-anagramy/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) \
-&emsp;5.2. [Algorytm wydawania reszty](2-5-2-wydawanie-reszty/README.md) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+)
+&emsp;5.1. [Sprawdzanie anagramów](2-5-1-anagramy/README.md) &#x1F4D2; \
+&emsp;5.2. [Algorytm wydawania reszty](2-5-2-wydawanie-reszty/README.md) &#x1F4D2;

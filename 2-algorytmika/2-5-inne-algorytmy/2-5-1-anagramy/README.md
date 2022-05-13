@@ -9,7 +9,7 @@ Przedstawienie działania algorytmu sprawdzającego anagramy
 Kod źródłowy:
 [anagram.cpp](anagram.cpp)
 
-![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) `Poziom 1`
+&#x1F4D2; Poziom 1
 
 Powrót do [Inne algorytmy](/2-algorytmika/2-5-inne-algorytmy/README.md)
 

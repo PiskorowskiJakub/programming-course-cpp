@@ -9,7 +9,7 @@ Przedstawienie działania algorytmu sortowania przez wybieranie
 Kod źródłowy:
 [sortowanie-wybieranie.cpp](sortowanie-wybieranie.cpp)
 
-![#fd646e](https://via.placeholder.com/15/fd646e/000000?text=+) `Poziom 3`
+&#x1F4D5; Poziom 3
 
 Powrót do [Algorytmy sortowania](/2-algorytmika/2-4-algorytmy-sortowania/README.md)
 

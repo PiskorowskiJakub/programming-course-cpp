@@ -6,7 +6,7 @@
 
 Przedstawienie pojęcia złożoności obliczeniowej algorytmów.
 
-![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) `Poziom 1`
+&#x1F4D2; Poziom 1
 
 Powrót do [Wstęp](/2-algorytmika/2-1-wstep/README.md)
 

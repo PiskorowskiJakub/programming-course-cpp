@@ -9,7 +9,7 @@ Przedstawienie działania algorytmu ciągu Fibonacciego
 Kod źródłowy:
 [ciag-fibonacciego.cpp](ciag-fibonacciego.cpp)
 
-![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+) `Poziom 1`
+&#x1F4D2; Poziom 1
 
 Powrót do [Podstawowe algorytmy](/2-algorytmika/2-2-podstawowe-algorytmy/README.md)
 

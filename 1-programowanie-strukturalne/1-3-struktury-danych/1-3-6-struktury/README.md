@@ -10,7 +10,7 @@ Kod źródłowy:
 [struktury.cpp](struktury.cpp) \
 [tablice-struktur.cpp](tablice-struktur.cpp)
 
-![#fd646e](https://via.placeholder.com/15/fd646e/000000?text=+) `Poziom 3`
+&#x1F4D5; Poziom 3
 
 Lista zadań: [136-zadania](136-zadania/README.md)
 
