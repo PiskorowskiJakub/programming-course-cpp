@@ -48,6 +48,8 @@ czyli w tym przypadku o
 
 Szyfr Cezara jest szyfrem symetrycznym, ponieważ do szyfrowania i deszyfrowania wykorzystujemy ten sam klucz, dodatkowo jest to szyfr podstawieniowy (litery nie zmieniają swojego położenia, tylko zostają podmienione na inne).
 
+---
+
 ## Funkcja szyfrująca i deszyfrująca
 
 **Wejście:** \

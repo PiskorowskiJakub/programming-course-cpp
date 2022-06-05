@@ -30,7 +30,7 @@ posortujemy tą metodą następujące dane
 
 Pętla wewnętrzna porówna sąsiadujące ze sobą elementy. Dla `n` elementów zostanie wykonanych `n − 1` porównań:
 
-![Sortowanie bąbelkowe](img/sortowanie-babelkowe-1.PNG)
+![Sortowanie bąbelkowe](img/sortowanie-babelkowe-1.png)
 
 sytuacja po pierwszym cyklu pętli wewnętrznej:
 

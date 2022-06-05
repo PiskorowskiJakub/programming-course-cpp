@@ -59,7 +59,9 @@ Czynność tą powtarzamy do momentu znalezienia szukanej wartości, lub gdy zmi
 
 <!--Źródło: [algorytm.edu.pl](http://www.algorytm.edu.pl/algorytmy-maturalne/wyszukiwanie-binarne.html) -->
 
-## Funcja algorytmu wyszukiwania binarnego
+---
+
+## Funkcja algorytmu wyszukiwania binarnego
 
 **Wejście:** \
 `szukana` - poszukiwana liczba \

@@ -31,12 +31,14 @@ W wykazie brak np. liczby 4, bowiem ma ona 3 dzielniki: 1, 2 i 4. Podobnie z lic
 
 Pierwsze, narzucające się podejście do problemu generacji liczb pierwszych jest bardzo prymitywne. Po prostu bierzemy kolejne liczby naturalne poczynając `od 2` (**1 nie jest pierwsze ponieważ dzieli się tylko przez 1 i brakuje nam drugiego podzielnika**). Wybraną liczbę naturalną `p` próbujemy dzielić przez liczby **od 2 do p - 1.** Jeśli żadna z tych liczb nie jest podzielnikiem `p`, to liczba `p` jest pierwsza. Wyprowadzamy ją i w specjalnym liczniku odnotowujemy ten fakt. Gdy licznik osiągnie stan `n`, kończymy algorytm.
 
-## Algorytm wyznaczania liczb pierwszych przez sprawdzenie podzielnosci
+---
+
+## Algorytm wyznaczania liczb pierwszych przez sprawdzenie podzielności
 
 **Wejście:** \
 `n` – liczba określająca ile liczb pierwszych należy wygenerować, `n` ∈ N.
 
-**Wyjscie:** \
+**Wyjście:** \
 `n`  kolejnych liczb pierwszych.
 
 **Zmienne pomocnicze:** \
@@ -44,7 +46,7 @@ Pierwsze, narzucające się podejście do problemu generacji liczb pierwszych je
 `p` – kolejno testowane liczby naturalne. `p` ∈ N. \
 `d` – kolejne dzielniki. `d` ∈ N. \
 
-**Lista krokow:** \
+**Lista kroków:** \
 K1: &emsp; `lp  ← 0` &emsp; zerujemy licznik liczb pierwszych \
 K2: &emsp; `p  ← 2` &emsp; generację rozpoczynamy od 2 \
 K3: &emsp; `Dopóki lp  < n`, &emsp; pętla generacji liczb pierwszych \

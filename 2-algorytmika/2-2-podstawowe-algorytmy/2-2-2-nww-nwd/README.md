@@ -87,6 +87,7 @@ NWW(a,b) = (a∗b) / ( NWD(a,b) )
   
 Możemy skorzystać z algorytmu Euklidesa w celu znalezienia największego wspólnego dzielnika NWD. Mając NWD łatwo policzymy NWW.
 
+
 **Lista kroków:** \
 K1: &emsp; `iloczyn ← a * b` \
 K2: &emsp; `Dopóki a  ≠ b`, \

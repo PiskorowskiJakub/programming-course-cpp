@@ -41,6 +41,8 @@ Oto kilka pierwszych wyrazów ciągu Fibonacciego:
 
 Obliczając `n-ty` wyraz ciągu, musisz posługiwać się wartościami poprzednimi czyli `n-1`, `n-2` itd. aż dojdziesz do wartości które znasz. Są nimi wartości dla `F0` i `F1`.
 
+---
+
 ## Algorytm generacji liczb Fibonacciego metodą iteracyjną
 
 **Wejście:**\
