@@ -16,4 +16,4 @@
 &emsp;4.1. [Sortowanie przez scalanie](2-4-1-sortowanie-przez-scalanie/README.md) &#x1F4D5; \
 &emsp;4.2. [Sortowanie przez wybieranie](2-4-2-sortowanie-przez-wybieranie/README.md) &#x1F4D5; \
 &emsp;4.3. [Sortowanie bąbelkowe](2-4-3-sortowanie-babelkowe/README.md) &#x1F4D5; \
-&emsp;4.4. Sortowanie przez wstawianie
+&emsp;4.4. [Sortowanie przez wstawianie](2-4-4-sortowanie-przez-wstawianie/README.md) &#x1F4D5;
