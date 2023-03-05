@@ -3,35 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-
-## Homework
-
-# 221 - liczby pierwsze
-/2-algorytmika/2-2-podstawowe-algorytmy/2-2-1-liczby-pierwsze/liczby-pierwsze.cpp
-# 222 - NWW - NWD
-2-algorytmika/2-2-podstawowe-algorytmy/2-2-2-nww-nwd/nwd.cpp
-2-algorytmika/2-2-podstawowe-algorytmy/2-2-2-nww-nwd/nww.cpp
-# 223 - szyfr Cezara
-2-algorytmika/2-2-podstawowe-algorytmy/2-2-3-szyfr-cezara/szyfr-cezara.cpp
-# 224 - ciag fibonacciego
-2-algorytmika/2-2-podstawowe-algorytmy/2-2-4-ciag-fibonacciego/ciag-fibonacciego.cpp
-# 231 - wyszukiwanie naturalne
-2-algorytmika/2-3-algorytmy-wyszukiwania/2-3-1-wyszukiwanie-naturalne/wyszukiwanie-naturalne.cpp
-# 232 - wyszukiwanie binarne
-2-algorytmika/2-3-algorytmy-wyszukiwania/2-3-2-wyszukiwanie-binarne/wyszukiwanie-binarne.cpp
-# 241 - sortowanie przez scalanie
-2-algorytmika/2-4-algorytmy-sortowania/2-4-1-sortowanie-przez-scalanie/sortowanie-scalanie.cpp
-# 242 - sortowanie przez wybieranie
-2-algorytmika/2-4-algorytmy-sortowania/2-4-2-sortowanie-przez-wybieranie/sortowanie-wybieranie.cpp
-# 243 - sortowanie babelkowe
-2-algorytmika/2-4-algorytmy-sortowania/2-4-3-sortowanie-babelkowe/sortowanie-babelkowe.cpp
-# 244 - sortowanie przez wstawianie
-2-algorytmika/2-4-algorytmy-sortowania/2-4-4-sortowanie-przez-wstawianie/sortowanie-wstawianie.cpp
-# 251 - anagram
-2-algorytmika/2-5-inne-algorytmy/2-5-1-anagramy/anagram.cpp
-# 252 - wydawanie-reszty
-2-algorytmika/2-5-inne-algorytmy/2-5-2-wydawanie-reszty/wydawanie-reszty.cpp
-
+1-programowanie-strukturalne/1-3-struktury-danych/1-3-2-tablice-znakowe/132-zadania1/zad1-poszukiwanie-pozycji.cpp
+1-programowanie-strukturalne/1-3-struktury-danych/1-3-2-tablice-znakowe/132-zadania1/zad2-zamiana-znakow.cpp
+1-programowanie-strukturalne/1-3-struktury-danych/1-3-2-tablice-znakowe/132-zadania1/zad3-nazwa-pliku.cpp
 
 .vscode/
 # User-specific files
