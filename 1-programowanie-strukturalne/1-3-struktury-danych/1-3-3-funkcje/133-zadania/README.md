@@ -43,7 +43,7 @@ int main()
 }
 ```
 
-Rozwiązanie zadania: [1-wizytowka.cpp](1-wizytowka/1-wizytowka.cpp)
+Rozwiązanie zadania: [1-wizytowka.cpp](1-wizytowka.cpp)
 
 ### Zadanie 2 - Netto - brutto
 
@@ -76,7 +76,7 @@ int main()
 }
 ```
 
-Rozwiązanie zadania: [2-netto-brutto.cpp](2-netto-brutto/2-netto-brutto.cpp)
+Rozwiązanie zadania: [2-netto-brutto.cpp](2-netto-brutto.cpp)
 
 ### Zadanie 3 - Znajdz max wartosc
 
@@ -102,7 +102,7 @@ int main()
 }
 ```
 
-Rozwiązanie zadania: [3-max-war.cpp](3-max-war/3-max-war.cpp)
+Rozwiązanie zadania: [3-max-war.cpp](3-max-war.cpp)
 
 ### Zadanie 4 - Paczkomat - skrytka
 
@@ -131,7 +131,7 @@ int main()
 }
 ```
 
-Rozwiązanie zadania: [4-paczkomat-skrytka.cpp](4-paczkomat-skrytka/4-paczkomat-skrytka.cpp)
+Rozwiązanie zadania: [4-paczkomat-skrytka.cpp](4-paczkomat-skrytka.cpp)
 
 ### Zadanie 5 Malo - duzo
 
@@ -161,4 +161,4 @@ int main()
 }
 ```
 
-Rozwiązanie zadania: [5-malo-duzo.cpp](5-malo-duzo/5-malo-duzo.cpp)
+Rozwiązanie zadania: [5-malo-duzo.cpp](5-malo-duzo.cpp)

@@ -3,9 +3,52 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-1-programowanie-strukturalne/1-3-struktury-danych/1-3-2-tablice-znakowe/132-zadania1/zad1-poszukiwanie-pozycji.cpp
-1-programowanie-strukturalne/1-3-struktury-danych/1-3-2-tablice-znakowe/132-zadania1/zad2-zamiana-znakow.cpp
-1-programowanie-strukturalne/1-3-struktury-danych/1-3-2-tablice-znakowe/132-zadania1/zad3-nazwa-pliku.cpp
+## Petla for
+/1-programowanie-strukturalne/1-2-instrukcje-sterujace/1-2-2-petla-for/122-zadania/zad1-tabliczka-mnozenia.cpp
+/1-programowanie-strukturalne/1-2-instrukcje-sterujace/1-2-2-petla-for/122-zadania/zad2-prostokat.cpp
+/1-programowanie-strukturalne/1-2-instrukcje-sterujace/1-2-2-petla-for/122-zadania/zad3-dywan.cpp
+/1-programowanie-strukturalne/1-2-instrukcje-sterujace/1-2-2-petla-for/122-zadania/zad4-bez-powtorzen.cpp
+/1-programowanie-strukturalne/1-2-instrukcje-sterujace/1-2-2-petla-for/122-zadania/zad5-trojkat.cpp
+/1-programowanie-strukturalne/1-2-instrukcje-sterujace/1-2-2-petla-for/122-zadania/zad6-tabliczka-v2.cpp
+
+## Petla do while
+/1-programowanie-strukturalne/1-2-instrukcje-sterujace/1-2-4-do-while/124-zadania/zad1.cpp
+/1-programowanie-strukturalne/1-2-instrukcje-sterujace/1-2-4-do-while/124-zadania/zad2.cpp
+/1-programowanie-strukturalne/1-2-instrukcje-sterujace/1-2-4-do-while/124-zadania/zad3.cpp
+
+## Switch
+/1-programowanie-strukturalne/1-2-instrukcje-sterujace/1-2-5-switch/125-zadania/zad1-kalkulator.cpp
+
+## Tablice
+/1-programowanie-strukturalne/1-3-struktury-danych/1-3-1-tablice/131-zadania/zad1.cpp
+/1-programowanie-strukturalne/1-3-struktury-danych/1-3-1-tablice/131-zadania/zad2.cpp
+/1-programowanie-strukturalne/1-3-struktury-danych/1-3-1-tablice/131-zadania/zad3.cpp
+/1-programowanie-strukturalne/1-3-struktury-danych/1-3-1-tablice/131-zadania/zad4.cpp
+
+## Tablice znakowe
+/1-programowanie-strukturalne/1-3-struktury-danych/1-3-2-tablice-znakowe/132-zadania/zad1-poszukiwanie-pozycji.cpp
+/1-programowanie-strukturalne/1-3-struktury-danych/1-3-2-tablice-znakowe/132-zadania/zad2-zamiana-znakow.cpp
+/1-programowanie-strukturalne/1-3-struktury-danych/1-3-2-tablice-znakowe/132-zadania/zad3-nazwa-pliku.cpp
+/1-programowanie-strukturalne/1-3-struktury-danych/1-3-2-tablice-znakowe/132-zadania/zad4-male-na-duze.cpp
+
+## Funkcje
+/1-programowanie-strukturalne/1-3-struktury-danych/1-3-3-funkcje/133-zadania/1-wizytowka.cpp
+/1-programowanie-strukturalne/1-3-struktury-danych/1-3-3-funkcje/133-zadania/2-netto-brutto.cpp
+/1-programowanie-strukturalne/1-3-struktury-danych/1-3-3-funkcje/133-zadania/3-max-war.cpp
+/1-programowanie-strukturalne/1-3-struktury-danych/1-3-3-funkcje/133-zadania/4-paczkomat-skrytka.cpp
+/1-programowanie-strukturalne/1-3-struktury-danych/1-3-3-funkcje/133-zadania/5-malo-duzo.cpp
+
+## Wskazniki
+/1-programowanie-strukturalne/1-3-struktury-danych/1-3-5-wskazniki/135-zadania/zad1-wsk.cpp
+/1-programowanie-strukturalne/1-3-struktury-danych/1-3-5-wskazniki/135-zadania/zad2-wsk.cpp
+/1-programowanie-strukturalne/1-3-struktury-danych/1-3-5-wskazniki/135-zadania/zad3-wsk-funkcje.cpp
+/1-programowanie-strukturalne/1-3-struktury-danych/1-3-5-wskazniki/135-zadania/zad4-wsk-funkcje-tablice.cpp
+/1-programowanie-strukturalne/1-3-struktury-danych/1-3-5-wskazniki/135-zadania/zad5-wsk-funkcje.cpp
+/1-programowanie-strukturalne/1-3-struktury-danych/1-3-5-wskazniki/135-zadania/zad6-wsk-funkcje-tablice.cpp
+
+## Struktury
+/1-programowanie-strukturalne/1-3-struktury-danych/1-3-6-struktury/136-zadania/zad1-baza-farmera.cpp
+/1-programowanie-strukturalne/1-3-struktury-danych/1-3-6-struktury/136-zadania/zad2-baza-farmera.cpp
 
 .vscode/
 # User-specific files
