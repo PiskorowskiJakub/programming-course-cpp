@@ -32,6 +32,8 @@ W kadym folderze znajduj się programy na różnych poziomach zaawansowania. Naj
 &emsp;1.0a [Przygotowanie środowiska](1-programowanie-strukturalne/1-0a-przygotowanie-srodowiska/README.md) &#x1F4D2; \
 &emsp;1.0b [Uruchomienie programu](1-programowanie-strukturalne/1-0b-uruchomienie-programu/README.md) &#x1F4D2; \
 &emsp;1.0c [Wprowadzenie do git](1-programowanie-strukturalne/1-0c-wprowadzenie-do-git/README.md) &#x1F4D2; \
+&emsp;1.0 [Teoria](1-programowanie-strukturalne/1-0-teoria/README.md) \
+&emsp;&emsp;1.0.1 [Wstęp - Paradygmaty, generacje i wzorce projektowe](1-programowanie-strukturalne/1-0-teoria/1-0-1-paradygmaty-generacje-wzorce/README.md) &#x1F4D2;\
 &emsp;1.1 [Podstawy programowania](1-programowanie-strukturalne/1-1-podstawy-programowania/README.md)  \
 &emsp;&emsp;1.1.1 [Struktura prostego programu Cpp](1-programowanie-strukturalne/1-1-podstawy-programowania/1-1-1-struktura-prostego-programu-cpp/README.md) &#x1F4D2; \
 &emsp;&emsp;1.1.2 [Typy danych](1-programowanie-strukturalne/1-1-podstawy-programowania/1-1-2-typy-danych/README.md) &#x1F4D2; \
