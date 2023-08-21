@@ -35,6 +35,7 @@ W kadym folderze znajduj się programy na różnych poziomach zaawansowania. Naj
 &emsp;1.0 [Teoria](1-programowanie-strukturalne/1-0-teoria/README.md) \
 &emsp;&emsp;1.0.1 [Historia języków programowania](1-programowanie-strukturalne/1-0-teoria/1-0-1-historia-jezykow/README.md) &#x1F4D2;\
 &emsp;&emsp;1.0.2 [Wstęp - Paradygmaty, generacje i wzorce projektowe](1-programowanie-strukturalne/1-0-teoria/1-0-2-paradygmaty-generacje-wzorce/README.md) &#x1F4D2;\
+&emsp;&emsp;1.0.3 [Porównanie języków programowania. C++, Java oraz Python](1-programowanie-strukturalne/1-0-teoria/1-0-3-porownanie-jezykow/README.md) &#x1F4D2;\
 &emsp;1.1 [Podstawy programowania](1-programowanie-strukturalne/1-1-podstawy-programowania/README.md)  \
 &emsp;&emsp;1.1.1 [Struktura prostego programu Cpp](1-programowanie-strukturalne/1-1-podstawy-programowania/1-1-1-struktura-prostego-programu-cpp/README.md) &#x1F4D2; \
 &emsp;&emsp;1.1.2 [Typy danych](1-programowanie-strukturalne/1-1-podstawy-programowania/1-1-2-typy-danych/README.md) &#x1F4D2; \

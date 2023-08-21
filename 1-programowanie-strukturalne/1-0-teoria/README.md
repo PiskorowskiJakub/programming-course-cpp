@@ -15,5 +15,6 @@
 ### Spis treści
 
 1 [Programming-course-cpp](/README.md) (powrót) \
-&emsp;1.0.1 [Historia języków programowania](1-programowanie-strukturalne/1-0-teoria/1-0-1-historia-jezykow/README.md) &#x1F4D2; \
-&emsp;1.0.2 [Wstęp - Paradygmaty, generacje i wzorce projektowe](1-programowanie-strukturalne/1-0-teoria/1-0-2-paradygmaty-generacje-wzorce/README.md) &#x1F4D2; 
+&emsp;1.0.1 [Historia języków programowania](1-0-1-historia-jezykow/README.md) &#x1F4D2; \
+&emsp;1.0.2 [Wstęp - Paradygmaty, generacje i wzorce projektowe](1-0-2-paradygmaty-generacje-wzorce/README.md) &#x1F4D2; \
+&emsp;1.0.3 [Porównanie języków programowania. C++, Java oraz Python](1-0-3-porownanie-jezykow/README.md) &#x1F4D2;
