@@ -79,3 +79,16 @@ Z wiersza poleceń lub nowego zintegrowanego terminala VS Code możesz teraz uru
 
 ![Run hello world in the VS Code Integrated Terminal](img/run-hello-world.png)
 
+
+### 2.4 Zbudowanie oraz odpalenie programu za pomocą wiersza poleceń
+
+Należy odpalić terminal w miejscu, gdzie znajduje się nasz plik źródłowy i użyć następującego polecenia:
+``` bash
+g++ -o <name-you-want> source.cpp
+```
+W miejscu `<name-you-want>` należy podac nazwę wynikowego pliku. Najlepiej podać tą samą nazwę co plik źródłowy aplik wiedzieć który plik wynikowy jest do którego pliku źródłowego.
+
+Zostało tylko uruchomić program poleceniem:
+```bash
+./myprogram
+```
