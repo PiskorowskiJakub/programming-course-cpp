@@ -19,6 +19,7 @@
 &emsp;1.0b [Uruchomienie programu](1-0b-uruchomienie-programu/README.md) &#x1F4D2; \
 &emsp;1.0c [Wprowadzenie do git](1-0c-wprowadzenie-do-git/README.md) &#x1F4D2; \
 &emsp;1.0d [Git Branch – Czym są gałęzie w systemi kontroli wersji?](1-0d-git-branch/README.md) &#x1F4D7; \
+&emsp;1.0e [Pull request i git merge](1-0e-pull-request-merge/README.md) &#x1F4D7; \
 &emsp;1.0 [Teoria](1-0-teoria/README.md) \
 &emsp;&emsp;1.0.1 [Historia języków programowania](1-0-teoria/1-0-1-historia-jezykow/README.md) &#x1F4D2;\
 &emsp;&emsp;1.0.2 [Wstęp - Paradygmaty, generacje i wzorce projektowe](1-0-teoria/1-0-2-paradygmaty-generacje-wzorce/README.md) &#x1F4D2;\
