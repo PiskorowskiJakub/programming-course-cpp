@@ -14,5 +14,5 @@
 ### Spis treści
 
 3 [Algorytmika](../README.md) (powrót) \
-&emsp;3.1. [Wyszukiwanie naturalne](2-3-1-wyszukiwanie-naturalne/README.md) &#x1F4D2; \
-&emsp;3.2. [Wyszukiwanie binarne](2-3-2-wyszukiwanie-binarne/README.md) &#x1F4D7;
+&emsp;3.1. [Wyszukiwanie naturalne](2-3-01-wyszukiwanie-naturalne/README.md) &#x1F4D2; \
+&emsp;3.2. [Wyszukiwanie binarne](2-3-02-wyszukiwanie-binarne/README.md) &#x1F4D7;
