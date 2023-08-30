@@ -50,6 +50,15 @@
 /1-programowanie-strukturalne/1-3-struktury-danych/1-3-6-struktury/136-zadania/zad1-baza-farmera.cpp
 /1-programowanie-strukturalne/1-3-struktury-danych/1-3-6-struktury/136-zadania/zad2-baza-farmera.cpp
 
+## 2-3 algorytmy wyszukiwania
+/2-algorytmika/2-3-algorytmy-wyszukiwania/2-3-02-wyszukiwanie-binarne/wyszukiwanie-binarne.cpp
+
+## 2-4 Algorytmy sortowania
+/2-algorytmika/2-4-algorytmy-sortowania/2-4-01-sortowanie-przez-scalanie/sortowanie-scalanie.cpp
+
+## 2-5 Algorytmy inne
+/2-algorytmika/2-5-inne-algorytmy/2-5-02-wydawanie-reszty/wydawanie-reszty.cpp
+
 .vscode/
 # User-specific files
 *.rsuser
