@@ -153,3 +153,11 @@ W tym miejscu należy podkreślić, że jedna grupa nie jest lepsza od drugiej. 
 - **Interpreter** – program tłumaczący i wykonujący kod źródłowy linia po linii. W tym przypadku nie ma pliku wykonywalnego, a każde uruchomienie wymaga ponownego przeprowadzenia etapu interpretacji (interpreter jest niezbędny do uruchomienia i wykonania programu).
 - **Kod źródłowy** – zapis programu komputerowego przy pomocy określonego języka programowania, opisujący operacje jakie powinien wykonać komputer na zgromadzonych lub otrzymanych danych. Kod źródłowy zapisywany jest w plikach źródłowych.
 - **Biblioteka** – plik obiektowy zawierający fragmenty kodu źródłowego (najczęściej procedury lub funkcje) realizujące określone zadania: matematyczne (np. biblioteka LAPACK, SLATEC), graficzne (np. DISLIN, OpenGL) i inne.
+
+---
+
+## Zadania
+
+1. Opisz czym się różni programowanie imperatywne od proceduralnego.
+2. Wypiszchociaż jeden język programowania dla każdej generacji języka programowania. 
+3. Wypisz conajmniej 3 języki skryptowe oraz kompilowalne.
