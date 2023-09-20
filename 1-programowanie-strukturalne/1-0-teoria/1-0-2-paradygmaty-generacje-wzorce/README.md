@@ -159,5 +159,5 @@ W tym miejscu należy podkreślić, że jedna grupa nie jest lepsza od drugiej. 
 ## Zadania
 
 1. Opisz czym się różni programowanie imperatywne od proceduralnego.
-2. Wypiszchociaż jeden język programowania dla każdej generacji języka programowania. 
+2. Wypisz chociaż jeden język programowania dla każdej generacji języka programowania. 
 3. Wypisz conajmniej 3 języki skryptowe oraz kompilowalne.

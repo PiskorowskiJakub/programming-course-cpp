@@ -86,7 +86,7 @@ Należy odpalić terminal w miejscu, gdzie znajduje się nasz plik źródłowy i
 ``` bash
 g++ -o <name-you-want> source.cpp
 ```
-W miejscu `<name-you-want>` należy podac nazwę wynikowego pliku. Najlepiej podać tą samą nazwę co plik źródłowy aplik wiedzieć który plik wynikowy jest do którego pliku źródłowego.
+W miejscu `<name-you-want>` należy podac nazwę wynikowego pliku z rozszeżeniem `.exe`. Najlepiej podać tą samą nazwę co plik źródłowy aby wiedzieć, który plik wynikowy jest do którego pliku źródłowego.
 
 Zostało tylko uruchomić program poleceniem:
 ```bash
