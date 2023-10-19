@@ -24,6 +24,7 @@
 &emsp;&emsp;2.2.3. [Szyfr Cezara](/2-algorytmika/2-2-podstawowe-algorytmy/2-2-03-szyfr-cezara/README.md) &#x1F4D7; \
 &emsp;&emsp;2.2.4. [Ciąg Fibonacciego](/2-algorytmika/2-2-podstawowe-algorytmy/2-2-04-ciag-fibonacciego/README.md) &#x1F4D2; \
 &emsp;&emsp;2.2.5. [Potęgowanie szybkie](/2-algorytmika/2-2-podstawowe-algorytmy/2-2-05-potegowanie-szybkie/README.md) &#x1F4D7; \
+&emsp;&emsp;2.2.6. [Rozkład liczb na czynniki pierwsze](./2-2-podstawowe-algorytmy/2-2-06-rozklad-liczby/README.md) &#x1F4D2;\
 &emsp;2.3. [Algorytmy wyszukiwania](2-3-algorytmy-wyszukiwania/README.md) \
 &emsp;&emsp;2.3.1. [Wyszukiwanie naturalne](/2-algorytmika/2-3-algorytmy-wyszukiwania/2-3-01-wyszukiwanie-naturalne/README.md) &#x1F4D2; \
 &emsp;&emsp;2.3.2. [Wyszukiwanie binarne](/2-algorytmika/2-3-algorytmy-wyszukiwania/2-3-02-wyszukiwanie-binarne/README.md) &#x1F4D7; \
