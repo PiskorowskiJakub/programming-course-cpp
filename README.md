@@ -55,6 +55,7 @@ W kadym folderze znajduj się programy na różnych poziomach zaawansowania. Naj
 &emsp;&emsp;1.3.4. [Przeciążenie funkcji](1-programowanie-strukturalne/1-3-struktury-danych/1-3-4-przeciazenie-funkcji/README.md) &#x1F4D7; \
 &emsp;&emsp;1.3.5. [Wskaźniki](1-programowanie-strukturalne/1-3-struktury-danych/1-3-5-wskazniki/README.md) &#x1F4D5; \
 &emsp;&emsp;1.3.6. [Struktury danych](1-programowanie-strukturalne/1-3-struktury-danych/1-3-6-struktury/README.md) &#x1F4D5; \
+&emsp;&emsp;1.3.7. [Rekurencja](1-programowanie-strukturalne/1-3-struktury-danych/1-3-7-rekurencja/README.md) &#x1F4D5; \
 &emsp;1.4. [Dodatkowe programy](1-programowanie-strukturalne/1-4-dodatkowe/README.md) \
 2 [Algorytmika](2-algorytmika/README.md) \
 &emsp;2.1. [Wstęp](2-algorytmika/2-1-wstep/README.md) \
