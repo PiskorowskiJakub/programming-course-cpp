@@ -76,6 +76,10 @@ W kadym folderze znajduj się programy na różnych poziomach zaawansowania. Naj
 &emsp;&emsp;2.4.2. [Sortowanie przez wybieranie](/2-algorytmika/2-4-algorytmy-sortowania/2-4-02-sortowanie-przez-wybieranie/README.md) &#x1F4D5; \
 &emsp;&emsp;2.4.3. [Sortowanie bąbelkowe](/2-algorytmika/2-4-algorytmy-sortowania/2-4-03-sortowanie-babelkowe/README.md) &#x1F4D5; \
 &emsp;&emsp;2.4.4. [Sortowanie przez wstawianie](/2-algorytmika/2-4-algorytmy-sortowania/2-4-04-sortowanie-przez-wstawianie/README.md) &#x1F4D5; \
-&emsp;2.5. [Inne algorytmy](2-algorytmika/2-5-inne-algorytmy/README.md) \
-&emsp;&emsp;2.5.1. [Sprawdzanie anagramów](/2-algorytmika/2-5-inne-algorytmy/2-5-01-anagramy/README.md) &#x1F4D2;\
-&emsp;&emsp;2.5.2. [Algorytm wydawania reszty](/2-algorytmika/2-5-inne-algorytmy/2-5-02-wydawanie-reszty/README.md) &#x1F4D2;
+&emsp;2.5. Algorytmy sekwencyjne \
+&emsp;2.6. Algorytmy warunkowe \
+&emsp;2.7. Algorytmy iteracyjne \
+&emsp;2.8. Algorytmy rekurencyjne \
+&emsp;2.9. [Inne algorytmy](/2-algorytmika/2-9-inne-algorytmy/README.md) \
+&emsp;&emsp;2.9.1. [Sprawdzanie anagramów](/2-algorytmika/2-9-inne-algorytmy/2-9-01-anagramy/README.md) &#x1F4D2;\
+&emsp;&emsp;2.9.2. [Algorytm wydawania reszty](/2-algorytmika/2-9-inne-algorytmy/2-9-02-wydawanie-reszty/README.md) &#x1F4D2;

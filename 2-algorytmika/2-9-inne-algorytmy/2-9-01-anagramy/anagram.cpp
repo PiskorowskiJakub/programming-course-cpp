@@ -1,6 +1,6 @@
 //
 //  anagram.cpp
-//  2-algorytmika/2-5-inne-algorytmy/2-5-1-anagramy/
+//  2-algorytmika/2-5-inne-algorytmy/2-9-1-anagramy/
 //
 //  Created by Jakub Piskorowski on 31/03/2022 wersja: 1.0
 //  Copyright © 2022 Jakub Piskorowski. All rights reserved.
