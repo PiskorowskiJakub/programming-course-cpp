@@ -11,7 +11,7 @@ Kod źródłowy:
 
 &#x1F4D2; Poziom 2
 
-Powrót do [Podstawowe algorytmy](/2-algorytmika/2-2-podstawowe-algorytmy/README.md)
+Powrót do [Algorytmika](/2-algorytmika/README.md)
 
 ---
 
