@@ -53,9 +53,6 @@
 ## Rekurencja
 /1-programowanie-strukturalne/1-3-struktury-danych/1-3-7-rekurencja/zad1-silnia-rekurencja.cpp
 
-## 2-2 Algorytmy podstawowe
-/2-algorytmika/2-2-podstawowe-algorytmy/2-2-05-potegowanie-szybkie/iteracyjnie-szybkie-potegowanie.cpp
-
 ## 2-3 algorytmy wyszukiwania
 /2-algorytmika/2-3-algorytmy-wyszukiwania/2-3-02-wyszukiwanie-binarne/wyszukiwanie-binarne.cpp
 
@@ -64,6 +61,7 @@
 
 ## 2-7 Algorytmy iteracyjne
 /2-algorytmika/2-7-algorytmy-iteracyjne/2-7-01-rozklad-liczb/rozklad-liczby.cpp
+/2-algorytmika/2-7-algorytmy-iteracyjne/2-7-02-potegowanie-szybkie/iteracyjnie-szybkie-potegowanie.cpp
 
 ## 2-9 Algorytmy inne
 /2-algorytmika/2-9-inne-algorytmy/2-9-02-wydawanie-reszty/wydawanie-reszty.cpp
