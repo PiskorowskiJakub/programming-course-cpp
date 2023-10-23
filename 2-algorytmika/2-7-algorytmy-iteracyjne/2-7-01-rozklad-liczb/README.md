@@ -33,7 +33,9 @@ Rozpoczynamy od dwójki - jest to pierwsza liczba pierwsza. Jeśli rozkładana l
 
 Zakładamy, że liczba, która znajdzie się na wejściu będzie większa od jedynki.
 
-## Algorytm szybkiego potęgowania
+---
+
+## Algorytm rozkładu liczb na czynniki pierwsze
 
 **Wejście:**\
 `n` – liczba naturalna podana przez użytkownika \
