@@ -26,6 +26,26 @@ git commit -m "Komentarz"
 git push origin main
 ```
 
+## 0 Skrót - klonowanie
+
+1. Wchodzimy na nasze repozytorium na platformie Github.
+2. Klikamy w przycisk `Code`, pozostając w zakładce HTTPS `kopiujemy link` do repozytorium.
+   ![klonowanie repozytorium](img/04cloneRepo.png)
+3. Na Windows wchodzimy do folderu gdzie chcemy zapisać sobie nasze repozytorium.
+4. Klikamy prawym przyciskiem myszy w tle folderu i wybieramy opcję "`Git bash here`".
+5. Wpisujemy polecenie `git clone` oraz myszką wklejamy link.
+   ![klonowanie repozytorium](img/06gitClone.png)
+6. Następnie musimy wejść do ukrytego folderu `.git`. Jeżeli go nie widzimy należy na górze wejść w zakładkę "`widok`" i zaznaczyć opcję "`ukryte elementy`" oraz "`Rozszerzenie nazw plików`".
+   ![Hidden Elements](./img/17gitHiddenElements.png)
+7. Następnie w pliku `config` na samym dole wpisujemy 3 linijki przedstawione poniżej wpisując swoją nazwę użytkownika oraz email na który zakładaliśmy konto.
+   ```text
+   [user]
+    name = piskorowskijakub
+    email = jakub@gmail.com
+   ```
+8. Teraz możemy wrócić do naszego głównego folderu repozytorium i rozpocząć pracę.
+   ![Pliki w repozytorium lokalnym](img/09repoDirectory.png)
+
 ## 1 Stworzenie konta na GitHub
 
 Najłatwiejszym sposobem na rozpoczęcie jest utworzenie konta na [GitHub.com](https://github.com) (to nic nie kosztuje).
