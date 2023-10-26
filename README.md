@@ -81,6 +81,7 @@ W kadym folderze znajduj się programy na różnych poziomach zaawansowania. Naj
 &emsp;&emsp;2.7.2. [Potęgowanie szybkie](/2-algorytmika/2-7-algorytmy-iteracyjne/2-7-02-potegowanie-szybkie/README.md) &#x1F4D7; \
 &emsp;&emsp;2.7.3. [Dziesiętna na binarną](/2-algorytmika/2-7-algorytmy-iteracyjne/2-7-03-dec-to-bin/README.md) &#x1F4D7; \
 &emsp;2.8. Algorytmy rekurencyjne \
+&emsp;&emsp;2.8.1. [N-ty wyraz ciągu](/2-algorytmika/2-8-algorytmy-rekurencyjne/2-8-01-ciagi/README.md) &#x1F4D7;\
 &emsp;2.9. [Inne algorytmy](/2-algorytmika/2-9-inne-algorytmy/README.md) \
 &emsp;&emsp;2.9.1. [Sprawdzanie anagramów](/2-algorytmika/2-9-inne-algorytmy/2-9-01-anagramy/README.md) &#x1F4D2;\
 &emsp;&emsp;2.9.2. [Algorytm wydawania reszty](/2-algorytmika/2-9-inne-algorytmy/2-9-02-wydawanie-reszty/README.md) &#x1F4D2;
