@@ -39,6 +39,7 @@
 &emsp;2.8. Algorytmy rekurencyjne \
 &emsp;&emsp;2.8.1. [N-ty wyraz ciągu](/2-algorytmika/2-8-algorytmy-rekurencyjne/2-8-01-ciagi/README.md) &#x1F4D7;\
 &emsp;&emsp;2.8.2. [Ciąg Fibonacciego](/2-algorytmika/2-8-algorytmy-rekurencyjne/2-8-02-ciag-fibonacciego/README.md) &#x1F4D2; \
+&emsp;&emsp;2.8.3. [Schemat Hornera](/2-algorytmika/2-8-algorytmy-rekurencyjne/2-8-03-schemat-hornera/README.md) &#x1F4D5; \
 &emsp;2.9. [Inne algorytmy](/2-algorytmika/2-9-inne-algorytmy/README.md) \
 &emsp;&emsp;2.9.1. [Sprawdzanie anagramów](/2-algorytmika/2-9-inne-algorytmy/2-9-01-anagramy/README.md) &#x1F4D2; \
 &emsp;&emsp;2.9.2. [Algorytm wydawania reszty](/2-algorytmika/2-5-inne-algorytmy/2-5-02-wydawanie-reszty/README.md) &#x1F4D2;
