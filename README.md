@@ -32,7 +32,7 @@ W kadym folderze znajduj się programy na różnych poziomach zaawansowania. Naj
 &emsp;1.0a [Przygotowanie środowiska](1-programowanie-strukturalne/1-0a-przygotowanie-srodowiska/README.md) &#x1F4D2; \
 &emsp;1.0b [Uruchomienie programu](1-programowanie-strukturalne/1-0b-uruchomienie-programu/README.md) &#x1F4D2; \
 &emsp;1.0c [Wprowadzenie do git](1-programowanie-strukturalne/1-0c-wprowadzenie-do-git/README.md) &#x1F4D2; \
-&emsp;1.0d [Git Branch – Czym są gałęzie w systemi kontroli wersji?](./1-programowanie-strukturalne/1-0d-git-branch/README.md) &#x1F4D7; \
+&emsp;1.0d [Git Branch – Czym są gałęzie w systemie kontroli wersji?](./1-programowanie-strukturalne/1-0d-git-branch/README.md) &#x1F4D7; \
 &emsp;1.0e [Pull request i git merge](1-programowanie-strukturalne/1-0e-pull-request-merge/README.md) &#x1F4D7; \
 &emsp;1.0 [Teoria](1-programowanie-strukturalne/1-0-teoria/README.md) \
 &emsp;&emsp;1.0.1 [Historia języków programowania](1-programowanie-strukturalne/1-0-teoria/1-0-1-historia-jezykow/README.md) &#x1F4D2;\
@@ -83,6 +83,7 @@ W kadym folderze znajduj się programy na różnych poziomach zaawansowania. Naj
 &emsp;&emsp;2.8.1. [N-ty wyraz ciągu](/2-algorytmika/2-8-algorytmy-rekurencyjne/2-8-01-ciagi/README.md) &#x1F4D7;\
 &emsp;&emsp;2.8.2. [Ciąg Fibonacciego](/2-algorytmika/2-8-algorytmy-rekurencyjne/2-8-02-ciag-fibonacciego/README.md) &#x1F4D2; \
 &emsp;&emsp;2.8.3. [Schemat Hornera](/2-algorytmika/2-8-algorytmy-rekurencyjne/2-8-03-schemat-hornera/README.md) &#x1F4D5; \
+&emsp;&emsp;2.8.4. [Znajdowanie miejsca zerowego](/2-algorytmika/2-8-algorytmy-rekurencyjne/2-8-04-polowienie-przedzialow/README.md) &#x1F4D5; \
 &emsp;2.9. [Inne algorytmy](/2-algorytmika/2-9-inne-algorytmy/README.md) \
 &emsp;&emsp;2.9.1. [Sprawdzanie anagramów](/2-algorytmika/2-9-inne-algorytmy/2-9-01-anagramy/README.md) &#x1F4D2;\
 &emsp;&emsp;2.9.2. [Algorytm wydawania reszty](/2-algorytmika/2-9-inne-algorytmy/2-9-02-wydawanie-reszty/README.md) &#x1F4D2;
