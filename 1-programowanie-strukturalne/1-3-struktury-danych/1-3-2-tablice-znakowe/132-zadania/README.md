@@ -18,7 +18,8 @@ Powrót do [Struktury danych](/1-programowanie-strukturalne/1-3-struktury-danych
 &emsp;Zadanie 1 - [Poszukiwanie pozycji](#zadanie-1---poszukiwanie-pozycji)\
 &emsp;Zadanie 2 - [Zamiana znaków](#zadanie-2---zamiana-znakow) \
 &emsp;Zadanie 3\* - [Poszukiwanie nazwy pliku w tekscie](#zadanie-3---poszukiwanie-nazwy-pliku-w-tekscie) \
-&emsp;Zadanie 4\* - [Zamiana małych liter na duże](#zadanie-4---zamiana-malych-liter-na-duze)
+&emsp;Zadanie 4\* - [Zamiana małych liter na duże](#zadanie-4---zamiana-malych-liter-na-duze)\
+&emsp;Zadanie 5 - [Analiza ciągu znaków](#zadanie-5---analiza-ciagu-znakow)
 
 ---
 
@@ -105,7 +106,7 @@ PIERWSZE
 
 Rozwiązanie zadania: [zad4-male-na-duze.cpp](zad4-male-na-duze.cpp)
 
-### Zadanie 5 - Analiza ciągu znaków
+### Zadanie 5 - Analiza ciagu znakow
 
 Napisz program w języku C++, który wczytuje od użytkownika ciąg znaków (tablica znakowa) o maksymalnej długości 100 znaków. Program powinien następnie wykonać następujące czynności:
 
@@ -117,8 +118,11 @@ Napisz program w języku C++, który wczytuje od użytkownika ciąg znaków (tab
 Wynik działania programu: 
 
 ``` text
-Podaj ciąg znaków (maks. 100 znaków): Hello World
-Długość ciągu: 11
-Ciąg znaków w odwrotnej kolejności: dlroW olleH
-Liczba wystąpień litery 'a': 0
+Podaj ciag znakow (maks. 100 znakow): Hello world
+Dlugosc ciagu: 11
+Ciag w odwrotnej kolejnosci: dlrow olleH
+Podaj szukana litere w wyrazie: l
+Wystapien litery 'l': 3
 ```
+
+Rozwiązanie zadania: [zad5-analiza-ciagu-znakow.cpp](zad5-analiza-ciagu-znakow.cpp)
