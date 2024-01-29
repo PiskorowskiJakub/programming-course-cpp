@@ -104,3 +104,21 @@ PIERWSZE
 ```
 
 Rozwiązanie zadania: [zad4-male-na-duze.cpp](zad4-male-na-duze.cpp)
+
+### Zadanie 5 - Analiza ciągu znaków
+
+Napisz program w języku C++, który wczytuje od użytkownika ciąg znaków (tablica znakowa) o maksymalnej długości 100 znaków. Program powinien następnie wykonać następujące czynności:
+
+1. Obliczyć długość wprowadzonego ciągu znaków.
+2. Wypisać ciąg znaków w odwrotnej kolejności.
+3. Zliczyć liczbę wystąpień litery 'a' w ciągu.
+
+
+Wynik działania programu: 
+
+``` text
+Podaj ciąg znaków (maks. 100 znaków): Hello World
+Długość ciągu: 11
+Ciąg znaków w odwrotnej kolejności: dlroW olleH
+Liczba wystąpień litery 'a': 0
+```

@@ -26,7 +26,7 @@ Zadanie 5 - [Malo - duzo](#zadanie-5-malo---duzo)
 
 ### Zadanie 1 - Wizytowka
 
-Zadanie polega na zaimplementowaniu funkcji `Przywitanie()`, która wyświetli przywitanie użytkownika wyorzystując jego imię i nazwisko.
+Zadanie polega na zaimplementowaniu funkcji `Przywitanie()`, która wyświetli przywitanie użytkownika wykorzystując jego imię i nazwisko.
 
 ```cpp
 #include <iostream>
