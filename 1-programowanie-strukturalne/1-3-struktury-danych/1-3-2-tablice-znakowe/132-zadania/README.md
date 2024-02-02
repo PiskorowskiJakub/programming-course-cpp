@@ -2,7 +2,7 @@
 
 `Jakub Piskorowski on 21/01/2022 wersja: 1.0`
 
-## Temat: Tablice znaowe w zadaniach
+## Temat: Tablice znakowe w zadaniach
 
 Przedstawienie działania tablic znakowych w zadaniach.
 
