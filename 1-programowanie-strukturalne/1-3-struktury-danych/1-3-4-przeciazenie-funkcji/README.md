@@ -130,3 +130,23 @@ char funkcja(int a)
 W przykładzie powyżej, funkcje mają różne zwracane wartości, natomiast takie same argumenty - kompilator wyrzuci błąd!
 
 Źródło: [algorytm.edu.pl](http://www.algorytm.edu.pl/funkcje-w-c/przecianie-nazw-funkcji.html)
+
+
+---
+
+### Zadanie 1 - Przeciążanie funkcji sumującej
+
+Napisz program, który zawiera dwie wersje funkcji `Suma`, przeciążając je dla różnych typów danych. Jedna funkcja powinna sumować dwie liczby całkowite, a druga dwie liczby zmiennoprzecinkowe.
+
+- Zdefiniuj dwie wersje funkcji suma dla liczb całkowitych i zmiennoprzecinkowych.
+W funkcji głównej programu poproś użytkownika o podanie dwóch liczb całkowitych i dwóch liczb zmiennoprzecinkowych.
+- Wywołaj obie wersje funkcji suma i wyświetl wyniki na ekranie.
+
+Wynik działania programu:
+``` text
+Podaj dwie liczby całkowite: 3 5
+Podaj dwie liczby zmiennoprzecinkowe: 2.5 4.5
+
+Suma liczb całkowitych: 8
+Suma liczb zmiennoprzecinkowych: 7
+```
