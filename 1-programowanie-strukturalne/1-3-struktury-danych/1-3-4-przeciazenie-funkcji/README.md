@@ -152,3 +152,21 @@ Suma liczb zmiennoprzecinkowych: 7
 ```
 
 Rozwiązanie zadania: [zad1-suma-liczb.cpp](zad1-suma-liczb.cpp)
+
+### Zadanie 2 - Przeciążanie funkcji do sumowania dwóch liczb
+
+Napisz program, który zawiera przeciążone funkcje do sumowania dwóch liczb. Przeciąż funkcje dla różnych typów danych, takich jak liczby całkowite (`int`) i liczby zmiennoprzecinkowe (`float`).
+
+- Zdefiniuj cztery wersje funkcji suma. Pamiętając że użytkownik może wpisać liczbę całkowitą lub zmiennoprzecinkową. 
+- W funkcji głównej programu poproś użytkownika o podanie dwóch liczb.
+- Wywołaj funkcję `Suma` i wyświetl wynik.
+
+Wynik działania programu:
+``` text
+Podaj pierwsza liczbe: 4
+Podaj druga liczbe: 5.6
+
+Suma liczb: 9.6
+```
+
+Rozwiązanie zadania: [zad2-suma-roznych-liczb.cpp](zad2-suma-roznych-liczb.cpp)
