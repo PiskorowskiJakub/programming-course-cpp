@@ -144,9 +144,11 @@ W funkcji głównej programu poproś użytkownika o podanie dwóch liczb całkow
 
 Wynik działania programu:
 ``` text
-Podaj dwie liczby całkowite: 3 5
+Podaj dwie liczby calkowite: 3 5
 Podaj dwie liczby zmiennoprzecinkowe: 2.5 4.5
 
-Suma liczb całkowitych: 8
+Suma liczb calkowitych: 8
 Suma liczb zmiennoprzecinkowych: 7
 ```
+
+Rozwiązanie zadania: [zad1-suma-liczb.cpp](zad1-suma-liczb.cpp)
