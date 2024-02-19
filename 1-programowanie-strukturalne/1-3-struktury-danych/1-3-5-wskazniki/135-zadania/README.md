@@ -70,7 +70,7 @@ Rozwiązanie zadania: [zad3-wsk-funkcje.cpp](zad3-wsk-funkcje.cpp)
 ### Zadanie 4 - funkcje - tablice
 
 1. Zadeklaruj tablicę **5 elementową**, którą użytkownik wypełni liczbami całkowitymi.
-2. Funkcja ``SumTab()`` ma sumować wszystkie wartości w tablicy. Do funkcji przekazywana jest talica a zwracany jest wynik sumowania.
+2. Funkcja ``SumTab()`` ma sumować wszystkie wartości w tablicy. Do funkcji przekazywana jest tablica, a zwracany jest wynik sumowania.
 
 Wynik działania programu:
 
@@ -91,7 +91,7 @@ Rozwiązanie zadania: [zad4-wsk-funkcje-tablice.cpp](zad4-wsk-funkcje-tablice.cp
 1. Do tablicy 10 elementowej wylosuj 10 liczb z przedziału od 0 do 50. [Funkcja losujaca](/1-programowanie-strukturalne/1-4-dodatkowe/1-4-1-losowanie/losowanie.cpp)
 2. Użytkownik podaje liczbę.
 3. Stworz funkcję sprawdzającą czy użytkownik zgadł liczbę. Przekaż do funkcji wskaźni na podaną przez użytkownia liczbę oraz tablicę z wylosowanymi wartościami.
-4. Użytkownik ma podawać tak długo liczbę aż trafi na którąś z wylosowanych liczb z tablicy (sprawdzić czy czy liczba jest w tablicy).
+4. Użytkownik ma podawać tak długo liczbę aż trafi na którąś z wylosowanych liczb z tablicy (sprawdzić czy liczba jest w tablicy).
 5. Po trafieniu liczby wyświetlić ma się licznik za którym razem trafił.
 
 Wynik działania programu:
