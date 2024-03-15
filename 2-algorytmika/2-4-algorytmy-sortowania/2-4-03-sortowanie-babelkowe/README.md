@@ -76,4 +76,5 @@ Tablica po sortowaniu:
 19 | 20 | 21 | 24 | 54 | 57 | 63 | 89 | 92 | 99 |
 ```
 
-Kod źródłowy: [sortowanie-babelkowe.cpp](sortowanie-babelkowe.cpp)
+<!--
+Kod źródłowy: [sortowanie-babelkowe.cpp](sortowanie-babelkowe.cpp) -->
