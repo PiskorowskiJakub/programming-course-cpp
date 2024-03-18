@@ -131,3 +131,71 @@ Wartość ``1/10``, która w systemie dwójkowym `tworzy ułamek nieskończony` 
 :exclamation: Wynika stąd bardzo ważny wniosek na przyszłość - **liczb zmiennoprzecinkowych NIE WOLNO przyrównywać** do siebie, gdyż z powodu błędów zaokrągleń równość może nigdy nie wystąpić. Zamiast sprawdzania równości będziemy sprawdzali, czy różnica tych liczb jest dostatecznie mała. Jeśli tak, to przyjmiemy, że są równe. Jeśli nie, to przyjmiemy, że się różnią.
 
 Źródło: [eduinf.waw.pl](https://eduinf.waw.pl/inf/utils/010_2010/0509.php)
+
+---
+
+## Zadania
+
+### Zadanie 1 - Kalkulator ocen
+
+Napisz program, który pobiera od użytkownika wynik egzaminu (liczbę punktów) i przypisuje odpowiednią ocenę na podstawie poniższej skali:
+
+- 0-49 punktów: Ocena ndostateczna
+- 50-69 punktów: Ocena dostateczna
+- 70-84 punktów: Ocena dobra
+- 85-99 punktów: Ocena bardzo dobra
+- 100 punktów: Ocena celująca 
+
+Program powinien również sprawdzać poprawność wprowadzonych danych, informując użytkownika, gdy wprowadzi on punkty spoza zakresu od 0 do 100.
+
+```tekst 
+Podaj wynik egzaminu (liczba punktow): 78
+
+Ocena: Dobra
+```
+
+Rozwiązanie zadania: [zad1-kalkulator-ocen.cpp](zad1-kalkulator-ocen.cpp)
+
+### Zadanie 2 -  Kalkulator BMI
+
+Napisz program, który oblicza wskaźnik masy ciała (BMI) na podstawie wprowadzonych przez użytkownika danych: masy ciała w kilogramach i wzrostu w metrach. Program powinien następnie wyświetlić interpretację wyniku BMI na podstawie poniższych kategorii:
+
+- BMI poniżej 18.5: Niedowaga
+- BMI 18.5 do 24.9: W normie
+- BMI 25 do 29.9: Nadwaga
+- BMI powyżej 30: Otyłość
+
+Wskazówki:
+
+- Skorzystaj z instrukcji warunkowej if-else do porównania wartości BMI z przedziałami i ustalenia odpowiedniej kategorii.
+- Do obliczenia BMI użyj wzoru: BMI = masa_ciała / (wzrost * wzrost).
+
+Wynik działania programu: 
+```text
+Podaj wage (w kg): 70
+Podaj wzrost (w metrach): 1.75
+
+Twoje BMI wynosi: 22.8571
+Twoj stan wagowy: W normie
+```
+
+Rozwiązanie zadania: [zad2-kalkulator-bmi.cpp](zad2-kalkulator-bmi.cpp)
+
+### Zadanie 3 - Sprawdzanie parzystości i podzielności przez 3
+
+Napisz program, który wczytuje od użytkownika liczbę całkowitą i sprawdza, czy jest ona parzysta oraz czy jest podzielna przez 3. Program powinien wyświetlić odpowiedni komunikat w zależności od wyników sprawdzenia.
+
+Wskazówki:
+
+- Wykorzystaj instrukcje warunkowe if do sprawdzenia parzystości i podzielności przez 3.
+- Możesz użyć operatorów % (modulo) do sprawdzenia reszty z dzielenia przez 2 (czy liczba jest parzysta) i 3 (czy liczba jest podzielna przez 3).
+
+Wynik działania programu: 
+``` text
+Podaj liczbe calkowita: 12
+
+Liczba 12 jest parzysta.
+Liczba 12 jest podzielna przez 3.
+```
+
+Rozwiązanie zadania: [zad3-parzystosc-podzielnosc.cpp](zad3-parzystosc-podzielnosc.cpp)
