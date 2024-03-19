@@ -129,3 +129,45 @@ Wynik działania powyższego programu:
 Program pokazuje jak działa pętla while. Zgodnie z tym co zostało wcześniej napisane, pętla wykonywała się dopóki warunek `iStart >= 0` był spełniony.
 
 Źródło: [cpp0x.pl](https://cpp0x.pl/kursy/Kurs-C++/Poziom-3/Petla-while/354)
+
+---
+
+## Zadania
+
+### Zadanie 1 - Liczby parzyste od 2 do N
+
+Napisz program, który wyświetli wszystkie liczby parzyste od 2 do N, gdzie N będzie podane przez użytkownika. Użyj pętli while, aby wykonać to zadanie.
+
+- Poproś użytkownika o podanie liczby całkowitej dodatniej N.
+- Użyj pętli while, aby sprawdzić i wyświetlić wszystkie liczby parzyste od 2 do N na ekranie.
+- Po wyświetleniu wszystkich liczb parzystych zakończ działanie programu.
+
+Wynik działania programu: 
+``` text
+Podaj liczbe N: 10
+
+Liczby parzyste od 2 do 10: 
+2
+4
+6
+8
+10
+```
+Rozwiązanie zadania: [zad1-parzyste-2-n.cpp](zad1-parzyste-2-n.cpp)
+
+### Zadanie 2 - Suma liczb naturalnych do N
+
+Napisz program, który obliczy sumę wszystkich liczb naturalnych od 1 do N, gdzie N będzie liczbą podaną przez użytkownika. Użyj pętli while, aby wykonać to zadanie.
+
+- Poproś użytkownika o podanie liczby całkowitej dodatniej N.
+- Zainicjuj zmienną przechowującą sumę na 0.
+- Użyj pętli while, aby dodawać kolejne liczby naturalne do sumy.
+- Po osiągnięciu liczby N wyświetl sumę na ekranie.
+
+Wynik działania programu:
+``` text
+Podaj liczbe N: 5
+
+Suma liczb naturalnych do 5: 15
+```
+Rozwiązanie zadania: [zad2-suma-naturalnych.cpp](zad2-suma-naturalnych.cpp)
