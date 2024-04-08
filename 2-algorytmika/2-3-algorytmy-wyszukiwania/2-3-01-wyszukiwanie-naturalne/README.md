@@ -7,7 +7,7 @@
 Przedstawienie działania algorytmu wyszukiwania naturalnego
 
 Kod źródłowy:
-[wyszukiwanie-naturalne.cpp](wyszukiwanie-naturalne.cpp)
+
 
 &#x1F4D2; Poziom 1
 
