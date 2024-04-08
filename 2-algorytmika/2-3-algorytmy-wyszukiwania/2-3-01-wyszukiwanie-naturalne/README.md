@@ -52,4 +52,4 @@ Poszukiwana liczba znajduje sie na pozycji:
 0, 5, 15, 43,
 ```
 
-Kod źródłowy: [wyszukiwanie-naturalne.cpp](wyszukiwanie-naturalne.cpp)
+
