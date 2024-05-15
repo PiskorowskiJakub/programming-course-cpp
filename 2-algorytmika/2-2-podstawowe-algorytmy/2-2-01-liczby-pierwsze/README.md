@@ -7,7 +7,6 @@
 Przedstawienie działania algorytmu do wyznaczania liczb pierwszych.
 
 Kod źródłowy:
-[liczby-pierwsze.cpp](liczby-pierwsze.cpp)
 
 &#x1F4D2; Poziom 1
 
